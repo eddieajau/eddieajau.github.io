@@ -1,0 +1,16 @@
+url: http://eddify.me
+name: Eddify.me
+markdown: redcarpet
+pygments: true
+permalink: /on/:title.html
+foo: "bar"
+#analytics:
+#  tracking_id: "UA-123-12"
+exclude: [.gitignore, README.md]
+category-list: [php, joomla, node, eclipse]
+
+# The directory for category index pages. Change it to something else if
+# for example you want links like /categories/category1 instead of /category1
+category_dir: /about/
+
+

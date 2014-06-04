@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<section>
+    <h2>{{ page.title }}</h2>
+
+    <p class="meta">{{ page.date | date_to_string }}
+    </p>
+    <div>
+    <!-- Place this tag where you want the +1 button to render. -->
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="AndrewEddie">Tweet</a>
+    <div class="g-plusone" data-annotation="inline" data-width="300" data-size="medium"></div>
+    </div>
+
+    <div class="post">
+        {{ content }}
+    </div>
+</section>
