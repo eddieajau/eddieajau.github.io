@@ -1,18 +1,16 @@
 ---
-layout: post
-title:  "The Joomla Contact Form, Gmail, and Reply-To Problems"
-date:   2013-02-04 21:29:00
-category: joomla
+layout:      post
+title:       "The Joomla Contact Form, Gmail, and Reply-To Problems"
+description: "Some of you may be sending your typical \"Contact Us\" form on your Joomla site to a Gmail or a Google Apps email address. If you are, and you are using Joomla 2.5 or Joomla 3 you might have noticed a problem - when you reply to the email the address that comes up is your email."
+date:        2013-02-04 21:29:00
+category:    joomla
 ---
 
 Some of you may be sending your typical &quot;Contact Us&quot; form on your Joomla site to a Gmail or a Google Apps email address. If you are, and you are using Joomla 2.5 or Joomla 3, you might have noticed a problem - when you reply to the email the address that comes up is your own email, not the email of the sender.
 
 
-This is somewhat inconvenient because you have to cut and paste the sender&#39;s email from within the message. As it
-turns out this is neither a bug in Joomla, nor a bug in Gmail. In order to reduce the possibility of the incoming
-email being flagged as spam, Joomla puts your email in the &quot;From&quot; header (because the email <em>is</em>
-actually from <em>your</em> site) and it puts the sender&#39;s email and name in the &quot;Reply To&quot; header. The
- header, in part, will look something like this:
+This is somewhat inconvenient because you have to cut and paste the sender&#39;s email from within the message. As it turns out this is neither a bug in Joomla, nor a bug in Gmail. In order to reduce the possibility of the incoming email being flagged as spam, Joomla puts your email in the &quot;From&quot; header (because the email <em>is</em>
+actually from <em>your</em> site) and it puts the sender&#39;s email and name in the &quot;Reply To&quot; header. The header, in part, will look something like this:
 
 ```
 To: youremail@gmail.com
@@ -22,8 +20,7 @@ From: The Site Name <youremail@gmail.com>
 Reply-To: iNeedHelp@example.com
 ```
 
-Your email and the site name are set in the Global Configuration of Joomla&#39;s administrator. The &quot;
-Reply-To&quot; address comes from the email that the sender typed into the the contact form on your site.
+Your email and the site name are set in the Global Configuration of Joomla&#39;s administrator. The &quot;Reply-To&quot; address comes from the email that the sender typed into the the contact form on your site.
 
 Now, the problem is that when the &quot;From&quot; email (your email) is the same as the any registered reply address for your email account (which will almost certainly include your email), Gmail ignores the &#39;Reply-To&quot; address. When you click the &quot;Reply&quot; button in the Gmail interface you will end up sending the email to yourself (<code>youremail@gmail.com</code>) instead of the sender&#39;s email (<code>iNeedHelp@example.com</code>).</p>
 

@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Using article content versions in Joomla 3.2"
-date:   2013-09-17 11:17:28
-category: joomla
+layout:      post
+title:       "Using article content versions in Joomla 3.2"
+description: "A slideshow showing the new article content versions feature in Joomla 3.2."
+date:        2013-09-17 11:17:28
+category:    joomla
 ---
 
 Joomla 3.2 introduces the ability to save a history of the changes made when editing an article. The following guide walks you through this new feature.
@@ -21,4 +22,3 @@ At a glance, content versioning includes the following features:
 * Restore any version (the version restore is the one that you edit and the one that will be displaying on your site).
 
 Feel free to download the presentation from <a href="http://www.slideshare.net/AndrewEddie/a-guide-to-article-content-versioning-in-joomla-3">Slideshare.net</a>&nbsp;for your own use or to help others learn how to use content versions in Joomla 3.</p>
-

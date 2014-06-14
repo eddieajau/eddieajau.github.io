@@ -13,3 +13,6 @@ Resources used to help build this site:
 * https://plus.google.com/authorship
 * https://support.google.com/webmasters/answer/1408986?expand=option2
 * http://socialmouths.com/blog/2013/11/21/9-ways-the-pros-integrate-their-blog-with-google-to-dominate-serps/
+* https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages
+* http://www.pixeden.com/social-icons/dark-social-icons-set
+* https://github.com/mmistakes/minimal-mistakes
