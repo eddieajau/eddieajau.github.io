@@ -16,3 +16,4 @@ Resources used to help build this site:
 * https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages
 * http://www.pixeden.com/social-icons/dark-social-icons-set
 * https://github.com/mmistakes/minimal-mistakes
+* https://support.google.com/webmasters/answer/139066?hl=en

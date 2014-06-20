@@ -1,12 +1,24 @@
 url: http://eddify.me
 name: Eddify.me
+
+# Owner/author information
+owner:
+  name:           Andrew Eddie
+  twitter:        AndrewEddie
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    AndrewEddie
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-51643556-1
+google_verify:
+
+paginate: 5
+paginate_path: "posts/page:num"
+
 markdown: redcarpet
 pygments: true
-permalink: /on/:title.html
-foo: "bar"
-#analytics:
-#  tracking_id: "UA-123-12"
-exclude: [.gitignore, README.md]
+permalink: /posts/:title.html
+exclude: [.gitignore, README.md, tools, .sass-cache, config.rb]
 category-list: [php, joomla, node, eclipse]
 
 # The directory for category index pages. Change it to something else if

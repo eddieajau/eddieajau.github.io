@@ -6,26 +6,30 @@
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
     <meta name="author" content="Andrew Eddie" />
-    <link rel="stylesheet" href="/css/styles.css" />
-    <link rel="stylesheet" href="/css/pygment_trac.css" />
+    <link rel="stylesheet" href="/stylesheets/styles.css" />
+    <link rel="stylesheet" href="/stylesheets/pygment_trac.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="/js/respond.js"></script>
+    <script src="/javascripts/respond.js"></script>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <!--[if lt IE 8]>
-    <link rel="stylesheet" href="/css/ie.css" />
+    <link rel="stylesheet" href="/stylesheets/ie.css" />
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+	<link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+	{% if site.owner.google_plus %}<link rel="author" href="http://plus.google.com/+{{ site.owner.google_plus }}?rel=author">{% endif %}
 
 </head>
 <body>
 
 <div id="header">
     <nav>
-        <li class="fork"><a href="/">Home</a></li>
-        <li class="downloads"><a href="https://plus.google.com/u/0/+AndrewEddie?rel=author">G+</a></li>
-        <li class="downloads"><a href="https://twitter.com/AndrewEddie">t</a></li>
+        <li class="fork"><a href="/">Eddify.me</a></li>
+        <li class="downloads"><a href="https://plus.google.com/u/0/+{{ site.owner.google_plus }}?rel=author">G+</a></li>
+        <li class="downloads"><a href="https://twitter.com/{{ site.owner.twitter }}">t</a></li>
+        <li class="downloads"><a href="/posts.html">Posts</a></li>
     </nav>
 </div><!-- end header -->
 
@@ -34,14 +38,6 @@
 </div>
 <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-<!-- Place this tag after the last +1 button tag. -->
-<script type="text/javascript">
-    (function() {
-        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = 'https://apis.google.com/js/platform.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-    })();
-</script>{% include google-analytics.html %}
+{% include _scripts.html %}
 </body>
 </html>
