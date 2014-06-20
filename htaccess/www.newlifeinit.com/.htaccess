@@ -1,0 +1,119 @@
+##
+# @version $Id: htaccess.txt 14401 2010-01-26 14:10:00Z louis $
+# @package Joomla
+# @copyright Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved.
+# @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
+# Joomla! is Free Software
+##
+
+
+#####################################################
+#  READ THIS COMPLETELY IF YOU CHOOSE TO USE THIS FILE
+#
+# The line just below this section: 'Options +FollowSymLinks' may cause problems
+# with some server configurations.  It is required for use of mod_rewrite, but may already
+# be set by your server administrator in a way that dissallows changing it in
+# your .htaccess file.  If using it causes your server to error out, comment it out (add # to
+# beginning of line), reload your site in your browser and test your sef url's.  If they work,
+# it has been set by your server administrator and you do not need it set here.
+#
+#####################################################
+
+##  Can be commented out if causes errors, see notes above.
+Options +FollowSymLinks
+
+#
+#  mod_rewrite in use
+
+RewriteEngine On
+
+Redirect 301 /news/5-component-to-stop-the-drips.html http://eddify.me/posts/a-joomla-component-to-stop-the-drips.html
+Redirect 301 /news/11-hello-world.html http://eddify.me/posts/hello-world.html
+Redirect 301 /news/15-jamboreport-is-back.html http://eddify.me/posts/jamboreport-is-back.html
+Redirect 301 /news/16-life-breathed-into-mambo-designer.html http://eddify.me/posts/life-breathed-into-mambo-designer.html
+Redirect 301 /news/19-advanced-acl-for-joomla-is-coming.html http://eddify.me/posts/advanced-acl-for-joomla-is-coming.html
+Redirect 301 /news/23-much-todo-about-nothing.html http://eddify.me/posts/much-todo-about-nothing.html
+Redirect 301 /news/24-joomla-and-the-gpl.html http://eddify.me/posts/joomla-and-the-gpl.html
+Redirect 301 /news/26-roktodo-is-done.html http://eddify.me/posts/roktodo-is-done.html
+Redirect 301 /news/27-new-magazine-sites-launching.html http://eddify.me/posts/new-magazine-sites-launching.html
+Redirect 301 /news/37-joomla-developer-lists-opened.html http://eddify.me/posts/joomla-developer-lists-opened.html
+Redirect 301 /news/36-a-conversation-with-louis-landry.html http://eddify.me/posts/a-conversation-with-louis-landry.html
+Redirect 301 /news/38-joomla-developer-training-las-vegas.html http://eddify.me
+Redirect 301 /news/35-state-of-the-joomla-project.html http://eddify.me/posts/state-of-the-joomla-project.html
+Redirect 301 /news/39-selling-open-source-to-the-powers-that-be.html http://eddify.me/posts/selling-open-source-to-the-powers-that-be.html
+Redirect 301 /news/40-more-joomla-10-flak.html http://eddify.me/posts/more-joomla-10-flak.html
+Redirect 301 /news/41-toowoomba-regional-council-to-use-jxtended-labels-for-emergency-respsonse-site.html http://eddify.me/posts/toowoomba-regional-council-to-use-jxtended-labels-for-emergency-respsonse-site.html
+Redirect 301 /news/42-another-thumbs-down-for-joomla-bites-the-dust.html http://eddify.me/posts/another-thumbs-down-for-joomla-bites-the-dust.html
+Redirect 301 /news/43-the-power-of-the-joomla-brand.html http://eddify.me/posts/the-power-of-the-joomla-brand.html
+Redirect 301 /news/45-joomla-designer-and-developer-training-brisbane-1-may.html http://eddify.me/posts/joomla-designer-and-developer-training-brisbane-1-may.html
+Redirect 301 /news/44-investing-in-joomlas-future-developers.html http://eddify.me/posts/investing-in-joomlas-future-developers.html
+Redirect 301 /news/46-joomla-template-documentation-an-online-reference.html http://eddify.me
+Redirect 301 /news/47-advanced-administrator-menu-for-joomla.html http://eddify.me/posts/advanced-administrator-menu-for-joomla.html
+Redirect 301 /news/48-advanced-administrator-menu-for-joomla-beta-2-released.html http://eddify.me/posts/advanced-administrator-menu-for-joomla-beta-2-released.html
+Redirect 301 /news/49-engineer-for-joomla-version-204-released.html http://eddify.me/posts/engineer-for-joomla-version-204-released.html
+Redirect 301 /news/50-thanks-to-roarz-computing-for-supporting-joomla-16-development.html http://eddify.me/posts/thanks-to-roarz-computing-for-supporting-joomla-16-development.html
+Redirect 301 /news/51-content-manager-104-beta-1-released.html http://eddify.me/posts/content-manager-104-beta-1-released.html
+Redirect 301 /news/52-advanced-administrator-menu-for-joomla-101-released.html http://eddify.me/posts/advanced-administrator-menu-for-joomla-101-released.html
+Redirect 301 /news/53-thanks-to-zacware-for-supporting-joomla-16-development.html http://eddify.me/posts/thanks-to-zacware-for-supporting-joomla-16-development.html
+Redirect 301 /news/54-thanks-to-jumar-solutions-australia-for-supporting-joomla-16-development.html http://eddify.me/posts/thanks-to-jumar-solutions-australia-for-supporting-joomla-16-development.html
+Redirect 301 /news/55-lifting-the-lid-on-joomla-16.html http://eddify.me/posts/lifting-the-lid-on-joomla-16.html
+Redirect 301 /news/57-recognition-for-outstanding-service.html http://eddify.me/posts/recognition-for-outstanding-service.html
+Redirect 301 /news/58-joomla-day-melbourne-12-14-february-2010.html http://eddify.me/posts/joomla-day-melbourne-12-14-february-2010.html
+Redirect 301 /news/59-software-queensland-peer-group-lunch-25-february-2010.html http://eddify.me/posts/software-queensland-peer-group-lunch-25-february-2010.html
+Redirect 301 /news.html http://eddify.me
+Redirect 301 /news.html?start=5 http://eddify.me
+Redirect 301 /news.html?start=10 http://eddify.me
+Redirect 301 /news.html?start=15 http://eddify.me
+Redirect 301 /news.html?start=20 http://eddify.me
+Redirect 301 /news.html?start=25 http://eddify.me
+Redirect 301 /news.html?start=30 http://eddify.me
+Redirect 301 /training.html http://eddify.me
+Redirect 301 /training/9-short-courses/33-introducing-designers-to-joomla.html http://eddify.me
+Redirect 301 /training/9-short-courses/34-introducing-developers-to-joomla.html http://eddify.me
+Redirect 301 /privacy.html http://eddify.me/privacy.html
+Redirect 301 /terms-and-conditions.html http://eddify.me
+Redirect 301 /just-for-fun.html http://eddify.me/about.html
+Redirect 301 /contact.html http://eddify.me
+
+########## Begin - Rewrite rules to block out some common exploits
+## If you experience problems on your site block out the operations listed below
+## This attempts to block the most common type of exploit `attempts` to Joomla!
+#
+## Deny access to extension xml files (uncomment out to activate)
+#<Files ~ "\.xml$">
+#Order allow,deny
+#Deny from all
+#Satisfy all
+#</Files>
+## End of deny access to extension xml files
+RewriteCond %{QUERY_STRING} mosConfig_[a-zA-Z_]{1,21}(=|\%3D) [OR]
+# Block out any script trying to base64_encode crap to send via URL
+RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
+# Block out any script that includes a <script> tag in URL
+RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+# Block out any script trying to set a PHP GLOBALS variable via URL
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+# Block out any script trying to modify a _REQUEST variable via URL
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+# Send all blocked request to homepage with 403 Forbidden error!
+RewriteRule ^(.*)$ index.php [F,L]
+#
+########## End - Rewrite rules to block out some common exploits
+
+#  Uncomment following line if your webserver's URL
+#  is not directly related to physical file paths.
+#  Update Your Joomla! Directory (just / for root)
+
+# RewriteBase /
+
+
+########## Begin - Joomla! core SEF Section
+#
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/index.php
+RewriteCond %{REQUEST_URI} (/|\.php|\.html|\.htm|\.feed|\.pdf|\.raw|/[^.]*)$  [NC]
+RewriteRule (.*) index.php
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization},L]
+#
+########## End - Joomla! core SEF Section
