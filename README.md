@@ -17,3 +17,4 @@ Resources used to help build this site:
 * http://www.pixeden.com/social-icons/dark-social-icons-set
 * https://github.com/mmistakes/minimal-mistakes
 * https://support.google.com/webmasters/answer/139066?hl=en
+* https://dev.twitter.com/docs/cards/types/summary-card
