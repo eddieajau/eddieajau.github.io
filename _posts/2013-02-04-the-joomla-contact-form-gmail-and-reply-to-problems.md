@@ -4,6 +4,8 @@ title:       "The Joomla Contact Form, Gmail, and Reply-To Problems"
 description: "Some of you may be sending your typical \"Contact Us\" form on your Joomla site to a Gmail or a Google Apps email address. If you are, and you are using Joomla 2.5 or Joomla 3 you might have noticed a problem - when you reply to the email the address that comes up is your email."
 date:        2013-02-04 21:29:00
 category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 
 Some of you may be sending your typical &quot;Contact Us&quot; form on your Joomla site to a Gmail or a Google Apps email address. If you are, and you are using Joomla 2.5 or Joomla 3, you might have noticed a problem - when you reply to the email the address that comes up is your own email, not the email of the sender.

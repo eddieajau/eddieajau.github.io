@@ -21,13 +21,7 @@
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:image" content=
 			{% if page.image.thumb %}
-				{% if page.image.thumb contains 'http://' %}
-					"{{ page.image.thumb }}"
-				{% elsif page.image.thumb contains 'https://' %}
-					"{{ page.image.thumb }}"
-				{% else %}
-					"{{ site.url }}/images/{{ page.image.thumb }}"
-				{% endif %}
+				{% include _page_thumb.html %}
 			{% else %}
 				{% if site.logo contains 'http://' %}
 					"{{ site.logo }}"
@@ -51,6 +45,7 @@
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
+{% if page.image.thumb %}<meta property="og:image" content={% include _page_thumb.html %}>{% endif %}
 
 <link rel="stylesheet" href="/stylesheets/styles.css"/>
 <link rel="stylesheet" href="/stylesheets/pygment_trac.css"/>

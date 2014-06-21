@@ -4,6 +4,8 @@ title:       "Using article content versions in Joomla 3.2"
 description: "A slideshow showing the new article content versions feature in Joomla 3.2."
 date:        2013-09-17 11:17:28
 category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 
 Joomla 3.2 introduces the ability to save a history of the changes made when editing an article. The following guide walks you through this new feature.

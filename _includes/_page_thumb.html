@@ -1,0 +1,7 @@
+{% if page.image.thumb contains 'http://' %}
+	"{{ page.image.thumb }}"
+{% elsif page.image.thumb contains 'https://' %}
+	"{{ page.image.thumb }}"
+{% else %}
+	"{{ site.url }}/images/{{ page.image.thumb }}"
+{% endif %}
