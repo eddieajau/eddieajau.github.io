@@ -3,6 +3,9 @@ layout: post
 title:  "Engineer for Joomla - Version 2.0.4 released"
 description: "Engineer for Joomla version 2.0.4 has been release.  Engineer is an Administrator Component that helps you create XML install files for extensions."
 date:   2009-06-02 07:08:28
+category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 [**Engineer**][0] version 2.0.4 is now available for download.  This version fixes several small issues reported by users.  For more information see the [**Engineer**][0] page at the Art of Joomla web site.  **Engineer** is a Joomla Administrator component that assists component developers in building XML installation files for their extensions.
 

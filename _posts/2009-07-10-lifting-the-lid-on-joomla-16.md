@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Lifting the lid on Joomla 1.6"
+layout:      post
+title:       "Lifting the lid on Joomla 1.6"
 description: ""
-date:   2009-07-10 07:53:56
+date:        2009-07-10 07:53:56
+category:    joomla
 image:
   thumb:     vendor/joomla.png
 ---

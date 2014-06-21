@@ -3,6 +3,9 @@ layout: post
 title:  "Advanced ACL for Joomla! is Coming"
 description: "RokACL will be a component for Joomla! 1.5 that will lay the foundations for advanced access control."
 date:   2007-06-18 00:00:00
+category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 Those following the [RocketWerx SVN](http://joomlacode.org/gf/project/rocketwerx/scmsvn/) will notice an interesting new addition: RokACL. RokACL will be a component for Joomla! 1.5 that will lay the foundations for advanced access control. It will allow you to add new user groups, your own sets of permissions and be able to assign various combinations to form Access Control Lists.
 

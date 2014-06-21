@@ -1,6 +1,13 @@
 ---
-layout: default
+layout: page
 ---
-<section>
-    {{ content }}
-</section>
+
+<h2>Posts about {{ page.name | capitalize }}</h2>
+<ul>
+	{% for post in site.categories[page.name] %}
+	<li>
+		<span>{{ post.date | date: "%Y-%m-%d"  }}</span>
+		<a class="feature-link" href="{{post.url}}">{{ post.title }}</a>
+	</li>
+	{% endfor %}
+</ul>

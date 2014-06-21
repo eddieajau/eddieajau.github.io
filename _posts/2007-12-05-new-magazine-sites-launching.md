@@ -3,6 +3,9 @@ layout: post
 title:  "New Magazine Sites Launching"
 description: "JXtended Magazine is a powerful solution for site implementers to create online magazine sites in Joomla."
 date:   2007-12-05 21:40:11
+category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 We have two new Magazine sites launching: [BeON Living][0] and [The Art of Joomla][1].
 

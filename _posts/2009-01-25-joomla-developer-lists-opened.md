@@ -3,6 +3,9 @@ layout: post
 title:  "Joomla Developer Lists Opened"
 description: "Joomla development lists have been opened up as another step to lower the barriers of entry."
 date:   2009-01-25 00:00:00
+category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 ## Joomla general development
 

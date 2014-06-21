@@ -3,6 +3,9 @@ layout: post
 title:  "Life Breathed into Mambo Designer"
 description: "This rather interesting Joomla component is a bit of a veteran having come through various incarnations - MamboMDK, MamboDesigner, JamboDesigner, JoomlaDesigner, RokCodeIt - and now, just to be different, JXtended Engineer."
 date:   2007-04-20 00:00:00
+category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 
 This rather interesting component is a bit of a veteran having come through various incarnations - MamboMDK, MamboDesigner, JamboDesigner, JoomlaDesigner - and now, just to be different, RokCodeIt. It's a rather sentimental project because it was one of my first publically released components back in the Mambo glory days.

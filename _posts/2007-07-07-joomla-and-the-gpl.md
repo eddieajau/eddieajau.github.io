@@ -3,6 +3,9 @@ layout: post
 title:  "Joomla! and the GPL"
 description: "New Life in IT fully supports the direction Joomla! has taken because it believes that the need to keep the GPL outwieghs the need for others, including us, to have the right to be able to release proprietary code for Joomla!."
 date:   2007-07-07 00:00:00
+category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 
 After a very long and sometimes heated debate on the Joomla! Forums, Joomla! [recently clarified](http://www.joomla.org/content/view/3510/1/) it's position on how the GPL, the license under which Joomla! is released, affects third-party extensions. To cut a long story short, extensions are considered derived works in terms of how extensions inherit the parent license of the system.

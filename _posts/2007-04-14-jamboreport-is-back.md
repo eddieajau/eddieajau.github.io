@@ -3,6 +3,9 @@ layout: post
 title:  "JamboReport is back"
 description: "After too long an hiatus, i've given the old JamboReport component for Joomla project a dust off."
 date:   2007-04-14 00:00:00
+category:    joomla
+image:
+  thumb:     vendor/joomla.png
 ---
 
 <img width="204" height="150" align="right" title="RokReporter" alt="Screenshot of report list" src="/images/2007/rokreporter.png">

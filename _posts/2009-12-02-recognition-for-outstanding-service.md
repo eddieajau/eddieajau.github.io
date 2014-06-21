@@ -3,7 +3,6 @@ layout: post
 title:  "Recognition for Outstanding Service"
 description: "I was blown away when I won the inaugral Software Queensland medal for outstanding service to the software industry in Queensland."
 date:   2009-12-02 00:00:00
-categories: awards
 ---
 
 <img border="2" align="right" title="John Vickers awarding Andrew Eddie with the 2009 Medal" alt="photo" src="/images/awards/awarding_medal.jpg">

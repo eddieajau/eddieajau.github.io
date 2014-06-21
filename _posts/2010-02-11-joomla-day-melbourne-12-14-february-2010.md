@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Joomla Day Melbourne 12-14 February 2010"
+layout:      post
+title:       "Joomla Day Melbourne 12-14 February 2010"
 description: "See you at the Joomla Day Melbourne, 12-14 February 2010."
-date:   2010-02-11 16:35:43
+date:        2010-02-11 16:35:43
+category:    events
 image:
   thumb:     vendor/joomla.png
 ---
