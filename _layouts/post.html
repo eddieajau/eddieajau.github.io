@@ -2,16 +2,7 @@
 layout: default
 ---
 <section>
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- 728x90 Image only -->
-	<ins class="adsbygoogle"
-		 style="display:inline-block;width:728px;height:90px"
-		 data-ad-client="ca-pub-3607824827064075"
-		 data-ad-slot="2612482798"></ins>
-	<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-
+	{% include _adsense.html %}
     <h2>{{ page.title }}</h2>
 
     <p class="meta">{{ page.date | date_to_string }}
