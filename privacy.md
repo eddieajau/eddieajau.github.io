@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blank
 title:  "Privacy and other Legal Information"
 description: "Privacy and legal information for the Eddify.me website."
 date:   2007-04-01 14:21:25

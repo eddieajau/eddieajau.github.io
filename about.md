@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blank
 permalink: /about.html
 title: About me
 ---
