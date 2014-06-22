@@ -1,5 +1,6 @@
 <meta charset="utf-8"/>
 <meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+{% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
 <title>{{ page.title }}</title>
 {% if page.description %}<meta name="description" content="{{ page.description }}"/>{% endif %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">

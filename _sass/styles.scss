@@ -116,7 +116,7 @@ body {
   @include background(linear_gradient(#2a2a29, #1c1c1c));
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, fieldset legend {
   color:#e8e8e8;
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -135,7 +135,7 @@ h1 {
   font-size:28px;
 }
 
-h2 {
+h2, fieldset legend {
   font-size: 24px;
 }
 
@@ -402,6 +402,29 @@ section {
       }
     }
 
+  }
+}
+
+fieldset {
+  border: 0;
+
+  div {
+    margin: 12px 0;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 6px;
+  }
+
+  input {
+    display: block;
+    width: 50%;
+  }
+
+  textarea {
+    width: 50%;
+    height: 100px;
   }
 }
 

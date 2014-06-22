@@ -1,0 +1,57 @@
+---
+layout: blank
+permalink: /contact.html
+title: Contact Andrew Eddie
+noindex: true
+---
+<script type="text/javascript">
+	function checkForm(form) {
+		try {
+			var validate = function (elem, message) {
+				if (elem.value.trim() == '') {
+					throw new Error(message);
+				}
+			};
+
+			validate(form.name, 'Please enter your name.');
+			validate(form.email, 'Please enter your email.');
+			validate(form.subject, 'Please enter a subject.');
+			validate(form.message, 'Please enter a message.');
+		} catch (err) {
+			alert(err.message);
+			return false;
+		}
+
+		return true;
+	}
+</script>
+<form action="http://getsimpleform.com/messages?form_api_token=12ed789715349c19ae23ff58e366eaf4" method="post" onsubmit="return checkForm(this);">
+	<fieldset>
+		<legend>Contact me</legend>
+		<input type="hidden" name="redirect_to" value="{{ site.url }}/contacted.html" />
+
+		<div>
+			<label for="fname">Your name:</label>
+			<input id="fname" type="text" name="name" required="required" />
+		</div>
+
+		<div>
+			<label for="femail">Your email:</label>
+			<input id="femail" type="email" name="email" required="required" />
+		</div>
+
+		<div>
+			<label for="femail">The subject:</label>
+			<input id="fsubject" type="text" name="subject" required="required" />
+		</div>
+
+		<div>
+			<label for="femail">Your message:</label>
+			<textarea id="fmessage" name="message" required="required"></textarea>
+		</div>
+
+		<div>
+			<input type="submit" value="Send Message" />
+		</div>
+	</fieldset>
+</form>

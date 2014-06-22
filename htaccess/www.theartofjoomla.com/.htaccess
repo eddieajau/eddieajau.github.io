@@ -26,6 +26,14 @@ Redirect 301 /62-administration/155-using-article-content-versions-in-joomla-3-2
 Redirect 301 /62-administration/154-the-joomla-contact-form-gmail-and-reply-to-problems.html http://eddify.me/posts/the-joomla-contact-form-gmail-and-reply-to-problems.html
 Redirect 301 /61-customisation/152-splitting-a-joomla-menu-between-two-modules.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
 Redirect 301 /61-customisation/143-making-modal-popup-links-in-joomla.html http://eddify.me/posts/making-modal-popup-links-in-joomla.html
+Redirect 301 /9-developer/151-eclipse-snippets-for-joomla-developers.html http://eddify.me/posts/eclipse-snippets-for-joomla-developers.html
+Redirect 301 /150-eclipse-snippet-category-joomla-modules-3.html http://eddify.me/posts/snippets-for-eclipse-for-packaging-joomla-extensions.html
+Redirect 301 /snippets/149-eclipse-snippet-category-joomla-modules-2.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-plugins.html
+Redirect 301 /snippets/148-eclipse-snippet-category-joomla-modules.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-modules.html
+Redirect 301 /snippets/144-eclipse-snippet-category-joomla-components.html http://eddify.me/posts/snippets-for-eclipse-for-making-joomla-components.html
+Redirect 301 /snippets/147-eclipse-snippet-category-joomla-2-5-backend-support.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-25-backend-components.html
+Redirect 301 /snippets/145-eclipse-snippet-category-joomla-2-5-backend-lists.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-25-backend-lists.html
+Redirect 301 /snippets/146-eclipse-snippet-category-joomla-2-5-backend-edit-pages.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-25-backend-edit-pages.html
 
 ## Begin - Rewrite rules to block out some common exploits.
 # If you experience problems on your site block out the operations listed below
