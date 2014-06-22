@@ -24,7 +24,8 @@ RewriteEngine On
 
 Redirect 301 /62-administration/155-using-article-content-versions-in-joomla-3-2.html http://eddify.me/posts/using-article-content-versions-in-joomla-3.html
 Redirect 301 /62-administration/154-the-joomla-contact-form-gmail-and-reply-to-problems.html http://eddify.me/posts/the-joomla-contact-form-gmail-and-reply-to-problems.html
-
+Redirect 301 /61-customisation/152-splitting-a-joomla-menu-between-two-modules.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
+Redirect 301 /61-customisation/143-making-modal-popup-links-in-joomla.html http://eddify.me/posts/making-modal-popup-links-in-joomla.html
 
 ## Begin - Rewrite rules to block out some common exploits.
 # If you experience problems on your site block out the operations listed below
