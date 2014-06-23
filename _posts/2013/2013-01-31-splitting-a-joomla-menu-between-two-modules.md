@@ -3,7 +3,7 @@ layout:      post
 title:       Splitting a Joomla Menu Between Two Modules
 description: Creating a split menu between two modules, like a top menu module and a side menu module, in Joomla is really easy to do if you know the tricks
 date:        2013-01-31 20:39:48
-category:    joomla
+categories:  [joomla, slides]
 image:
   thumb:     vendor/joomla.png
 ---

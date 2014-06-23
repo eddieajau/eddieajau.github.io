@@ -3,7 +3,7 @@ layout:      post
 title:       "Using article content versions in Joomla 3.2"
 description: "A slideshow showing the new article content versions feature in Joomla 3.2."
 date:        2013-09-17 11:17:28
-category:    joomla
+categories:  [joomla, slides]
 image:
   thumb:     vendor/joomla.png
 ---
