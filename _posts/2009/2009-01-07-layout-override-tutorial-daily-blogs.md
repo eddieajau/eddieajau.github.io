@@ -6,6 +6,9 @@ date:        2009-01-07 09:42:47
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 [![](images/articles/2009/daily_blog_example.png)][0]This Joomla layout override tutorial shows you how to modify the blog style views for articles to show the "day" date above all the articles posted in the same day.  After that, each article on the same day will just display the time they were posted as shown in the screenshot from [www.optionsizzle.com][0].
 

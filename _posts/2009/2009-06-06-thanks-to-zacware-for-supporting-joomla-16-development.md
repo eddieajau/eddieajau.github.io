@@ -6,6 +6,9 @@ date:   2009-06-06 07:15:02
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 New Life in IT wishes to express its thanks to Grant Weyer and Damian Hickey, owners of [ZacWare][0], for also rising to the occasion and sponsoring us for two more whole days of Joomla 1.6 development.  This follows on from [Brett Hooker's sponsorship][1] this week which greatly assisted in the refactoring of, and adding new features to, the Joomla 1.6 Menu Manager.  Thank you ZacWare.
 

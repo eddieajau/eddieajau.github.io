@@ -6,7 +6,11 @@ date:        2013-01-21 06:44:27
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+
 Without a doubt, CKEditor is the best editor to use with Joomla. Version 1.0.6 of Artof Editor is now available for download from [http://www.theartofjoomla.com/extensions/artof-editor.html][0] and supports Joomla 1.5, 2.5 and 3\.
 
 This update includes CKEditor 3.6.2 and it brings the downloadable version into line with what was in the code repository. My next steps for Artof Editor are:

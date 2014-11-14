@@ -6,6 +6,9 @@ date:        2009-07-08 08:54:11
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 The video and notes to Andrew Eddie's presentation to the Joomla User Group Brisbane (7 July 2009) on current state of Joomla 1.6 are now available.
 

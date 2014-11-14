@@ -1,0 +1,13 @@
+# Menu navigation links
+
+- title: Categories
+  url: /categories/
+
+- title: Software
+  url: /software/
+
+- title: About me
+  url: /about.html
+
+- title: Contact me
+  url: /contact.html

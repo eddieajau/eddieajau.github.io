@@ -5,10 +5,14 @@ description: "A slideshow showing the new article content versions feature in Jo
 date:        2013-09-17 11:17:28
 categories:  [joomla, slides]
 image:
-  thumb:     vendor/joomla.png
+  thumb:      vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 Joomla 3.2 introduces the ability to save a history of the changes made when editing an article. The following guide walks you through this new feature.
+
 
 <p style="text-align: center; ">
 	<iframe frameborder="0" height="400" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/26264587" width="476"></iframe>

@@ -3,6 +3,10 @@ layout: post
 title:  "Hello World"
 description: "Just saying hi."
 date:   2007-04-04 00:00:00
+image:
+  feature:    abstract-12.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Like all good C programmers before me, and to come, we simple must have the obligatory "Hello World" article. Welcome to my site (tada) and my company. Both have been around since mid-2005 but this poor old site has been neglected - what do they say about builders' houses? Someone graciously commented that it's "minimalist" - a nice way of saying it's bland (and that's my fault). Hopefully I'll have my favourite designer run over it with some of his magic very soon.
 

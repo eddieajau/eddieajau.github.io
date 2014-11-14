@@ -6,8 +6,15 @@ date:        2013-01-28 09:48:23
 categories:  [snippets, joomla]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-This is an Eclipse snippet category for general purpose Joomla 2.5/3 Component code snippets. It includes the following snippets:
+
+This is an Eclipse snippet category for general purpose Joomla 2.5/3 Component code snippets. 
+
+
+It includes the following snippets:
 
 * PHP File Header
 * XML Installation File (Component)

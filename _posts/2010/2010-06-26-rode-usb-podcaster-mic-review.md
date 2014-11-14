@@ -6,6 +6,9 @@ date:        2010-06-26 11:11:11
 categories:  [reviews, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-9.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 The [RODE USB Podcaster][0] mic is an excellent choice for anyone wanting to improve the audio quality of their podcasting recordings.  In this quick review I look at the quality of the mic compared to a headset and built-in laptop mic.  I'm really happy with the results and the purchase.
 

@@ -6,6 +6,9 @@ date:        2010-05-25 08:25:00
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 The ability to add your own user groups is new in Joomla 1.6\.  You can also add users to one or multiple user groups.  Watch the Joomla 1.6 video on user groups to find out more.
 

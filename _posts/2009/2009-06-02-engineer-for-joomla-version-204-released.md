@@ -6,6 +6,9 @@ date:   2009-06-02 07:08:28
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 [**Engineer**][0] version 2.0.4 is now available for download.  This version fixes several small issues reported by users.  For more information see the [**Engineer**][0] page at the Art of Joomla web site.  **Engineer** is a Joomla Administrator component that assists component developers in building XML installation files for their extensions.
 

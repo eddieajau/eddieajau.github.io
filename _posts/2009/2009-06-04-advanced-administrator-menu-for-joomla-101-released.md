@@ -6,6 +6,9 @@ date:   2009-06-04 20:11:49
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 [**Advanced Administrator Menu**][0] version 1.0.1 has been released.  This module and component allow you to create new groups of components in the Joomla Administrator Menu, especially useful if you have many extensions installed.  This version syncronises the menu with the recent release of Joomla 1.5.11\.
 

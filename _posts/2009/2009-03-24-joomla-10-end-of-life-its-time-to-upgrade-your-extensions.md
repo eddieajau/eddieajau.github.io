@@ -6,6 +6,9 @@ date:        2009-03-24 20:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla 1.0 end-of-life is approaching and it's time for developers who sitll use Joomla 1.5's legacy mode to switch over to the native API.  I've prepared a detailed cheat sheet for what is required to convert your Joomla 1.0 based extensions to run natively on Joomla 1.5: [Converting Old Extensions to Joomla 1.5][0].
 

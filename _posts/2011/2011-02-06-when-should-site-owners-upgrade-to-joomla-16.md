@@ -6,6 +6,9 @@ date:        2011-02-06 04:55:01
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Should I upgrade my site to Joomla 1.6?  Can I upgrade it?  Where are the extensions for Joomla 1.6?  Is Joomla 1.6 stable?
 

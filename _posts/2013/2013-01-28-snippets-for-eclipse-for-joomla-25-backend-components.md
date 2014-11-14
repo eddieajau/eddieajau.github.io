@@ -6,8 +6,15 @@ date:        2013-01-28 09:48:23
 categories:  [snippets, joomla]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-This is an Eclipse snippet category with backend component support code for Joomla 2.5 components (all except CSS should be applicable for Joomla 3.0). It includes the following snippets:
+
+This is an Eclipse snippet category with backend component support code for Joomla 2.5 components (all except CSS should be applicable for Joomla 3.0). 
+
+
+It includes the following snippets:
 
 * Add submenu method for backend component helper
 * Add submenu call to master backend controller

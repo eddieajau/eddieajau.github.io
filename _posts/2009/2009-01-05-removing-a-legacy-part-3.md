@@ -6,6 +6,9 @@ date:        2009-01-05 21:41:55
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Welcome to Part 3 of my series for converting an existing component to work natively in version 1.5 without using legacy mode.  Last time we looked at configuration variables, dug into JRequest and also had a look at a few other things.  This time we are hit the administrator component hard to see if we can actually get some output happening. 
 

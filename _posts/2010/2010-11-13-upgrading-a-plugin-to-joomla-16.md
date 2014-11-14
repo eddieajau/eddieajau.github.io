@@ -6,6 +6,9 @@ date:        2010-11-13 12:19:05
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla 1.6 is approaching release and it's time for developers to start thinking about upgrading their components to be ready.  In fact, now is a great time to start.  Andrew Eddie walks you through how he upgraded a simple editor plugin with this instructional video for developers.
 

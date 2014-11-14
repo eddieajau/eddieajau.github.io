@@ -6,6 +6,9 @@ date:        2009-02-25 20:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla is pretty good at hiding things from the public, and then exposing them once the user logs in.  However, what happens when you want to hide a module position, for example, when the user logs in.  I had this problem with The Art of Joomla site.  I put in a "Subscribe" module for people to sign up for my developer documentation but once they registered I didn't want it annoying them.  Well, it turns out that it's only a few lines of code in the main template file to hide it.
 

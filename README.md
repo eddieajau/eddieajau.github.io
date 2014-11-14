@@ -8,6 +8,7 @@ Resources used to help build this site:
 * http://flippinawesome.org/2013/10/28/building-a-blog-with-jekyll/
 * https://www.andrewmunsell.com/tutorials/jekyll-by-example/tutorial
 * http://mrenaud.ca/blog/2013/07/29/the-creation-of-this-site
+* http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/
 
 ### Github Pages
 
@@ -18,6 +19,7 @@ Resources used to help build this site:
 * https://github.com/mmistakes/minimal-mistakes
 * https://github.com/mrenaud92/mrenaud92.github.io
 * http://madebygraham.com/Midnight/
+* https://mademistakes.com/articles/hpstr-jekyll-theme/
 
 ### Social Specifications and Sharing
 

@@ -6,6 +6,9 @@ date:        2011-01-28 06:50:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 My **[previous video][0]** outlined some of the changes that are required to make a plugin install in Joomla 1.6\.  There are a number of other modifications that are required concerning changes to event names that the extension developer needs to be aware of in order for plugins to work successfully in Joomla 1.6\.
 

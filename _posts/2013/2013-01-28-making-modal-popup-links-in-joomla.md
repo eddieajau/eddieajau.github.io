@@ -6,8 +6,13 @@ date:        2013-01-28 07:46:11
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+
 Popup images are a very popular part of web-sites today. You see them used particularly in galleries but more and more within articles in general. Joomla gives you the ability to add popup images very easily.
+
 
 The first thing to do is place the following line of code in your template `index.php` file:
 

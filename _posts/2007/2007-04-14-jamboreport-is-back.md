@@ -6,6 +6,9 @@ date:   2007-04-14 00:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 <img width="204" height="150" align="right" title="RokReporter" alt="Screenshot of report list" src="/images/2007/rokreporter.png">

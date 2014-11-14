@@ -6,6 +6,9 @@ date:        2010-06-29 06:50:00
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 This video looks at the new access controls (user groups and permissions) in Joomla 1.6 as presented by Andrew Eddie on 15 May 2010, a few days before the Beta 1 release.  This is part 2 of 3 in a series of in-depth talks on Joomla 1.6\.
 

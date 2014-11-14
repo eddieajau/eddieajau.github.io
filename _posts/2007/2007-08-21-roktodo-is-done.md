@@ -6,6 +6,9 @@ date:   2007-08-21 00:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 **RokTodo** is a very simple Joomla! 1.5 component that allows you to add placeholder menu items with meaningful text, or images, to help you demonstrate the structure of a completed site. So if your client or boss is struggling with the link backs to the home page and being asked to imagine the big picture (we all know this doesn't go down well when trying to give the appearance of having made some progress), RokTodo is for you.

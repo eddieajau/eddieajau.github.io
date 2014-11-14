@@ -6,6 +6,9 @@ date:        2010-05-21 07:00:00
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 The Joomla 1.6 Administrator menu has undergone some changes.  Users now has its own menu that includes adding groups and access levels for viewing content and other features have been moved around.  Watch the Joomla 1.6 video on the Administrator menu to find out more.
 

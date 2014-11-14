@@ -6,6 +6,9 @@ date:        2011-02-08 08:15:18
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 The previous article, "[when should site owners upgrade to Joomla 1.6?][0]", looked at the things a Joomla web site owner would consider when trying to answer that question. But what about the developer?  Do they have the luxury of "it depends" or is the question more critical, or less urgent for them.  This article looks at some of the issues that face the Joomla extension developer and how they differ greatly from that of the web site owner.
 

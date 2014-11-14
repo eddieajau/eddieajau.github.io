@@ -7,6 +7,9 @@ date:        2010-05-20 07:00:00
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla 1.6 includes several new features for modules.  You can time a module to be published between two dates, and you can set modules to be excluded from particular pages.  Watch the Joomla 1.6 video on modules to find out more.
 

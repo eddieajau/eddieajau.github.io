@@ -6,6 +6,9 @@ date:        2009-02-23 20:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Ever wondered how Joomla sections and categories and the frontpage all fit together?  Or maybe how the menus modules are arranged, or how to get around the 2-category limit?  I see these questions a lot so I've put together a PDF of diagrams to help explain how all these things work in Joomla.  Understanding the Structure of Joomla is an invaluable reference PDF for all web site masters wanting to set up a Joomla web site.
 

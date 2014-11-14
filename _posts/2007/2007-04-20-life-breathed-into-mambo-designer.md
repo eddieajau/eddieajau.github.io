@@ -6,6 +6,9 @@ date:   2007-04-20 00:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 This rather interesting component is a bit of a veteran having come through various incarnations - MamboMDK, MamboDesigner, JamboDesigner, JoomlaDesigner - and now, just to be different, RokCodeIt. It's a rather sentimental project because it was one of my first publically released components back in the Mambo glory days.

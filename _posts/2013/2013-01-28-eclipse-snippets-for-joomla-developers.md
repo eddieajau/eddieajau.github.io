@@ -6,8 +6,13 @@ date:        2013-01-28 15:49:06
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+
 I've added a number of Eclipse snippets that I have used on a regular basis to assist with Joomla extension development. You can find them in the new **[Snippets][0]** area on this site.
+
 
 If you don't know how to use snippets in Eclipse, I've made a video tutorial that will help get you started. Have a look at the **[Development Tools][1]** video on the Learn the Art of Joomla site (about half way through).
 

@@ -6,6 +6,9 @@ date:        2009-08-31 17:27:20
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla provides you with many options by which to display an article.  However, did you know one of the most underutilised options is the fact that your article can hide its own "Intro Text"?  The teaser you see in a blog layout, or a newsflash module, can be different when you actually display the full article - just look at this one.
 

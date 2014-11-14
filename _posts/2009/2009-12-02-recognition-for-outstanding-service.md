@@ -3,6 +3,10 @@ layout: post
 title:  "Recognition for Outstanding Service"
 description: "I was blown away when I won the inaugral Software Queensland medal for outstanding service to the software industry in Queensland."
 date:   2009-12-02 00:00:00
+images:
+  feature:    abstract-12.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 <img border="2" align="right" title="John Vickers awarding Andrew Eddie with the 2009 Medal" alt="photo" src="/images/awards/awarding_medal.jpg">

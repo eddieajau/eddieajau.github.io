@@ -6,6 +6,9 @@ date:        2010-05-27 07:00:00
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 In Joomla 1.6, sections and categories have been combined into a single category tree.  In addition to this, there is no limit to the depth of categories you can define.  Watch the Joomla 1.6 video on categories to find out more.
 

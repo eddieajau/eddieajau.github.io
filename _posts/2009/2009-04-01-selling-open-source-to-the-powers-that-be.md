@@ -6,6 +6,9 @@ date:   2009-04-01 08:00:00
 category:    events
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 I participated in a hypothetical panel on where Open Source fits in amongst established proprietary systems.  Scripted before the global economic crisis, the panel had to contend with a scarily realistic set of scenarios.
 

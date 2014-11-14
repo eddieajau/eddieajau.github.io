@@ -6,6 +6,9 @@ date:        2010-05-22 09:00:00
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 There are a number of changes to the toolbar in the Joomla 1.6 Administrator, particularly in edit screens, to bring button names and behaviour in line with what you are familiar with in a desktop application.  Watch the Joomla 1.6 video on the toolbars to find out more.
 

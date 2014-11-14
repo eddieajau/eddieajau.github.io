@@ -6,6 +6,9 @@ date:        2009-01-05 21:38:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla 1.5 provides a "**Legacy Mode**" to allow most developers a way to get up-and-running easily. However, you really want to get off the dependence on Legacy Mode as soon as you can. The new Joomla framework in version 1.5 provides a far richer environment in which to build extensions.
 

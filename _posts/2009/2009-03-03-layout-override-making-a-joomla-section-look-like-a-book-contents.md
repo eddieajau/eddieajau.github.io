@@ -6,6 +6,9 @@ date:        2009-03-03 20:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Is there a way to have Joomla display a section like a table of contents in a book?  It turns out there is.  I wanted the Art of Joomla's Developer Reference to look like a table of contents, with each category being like a chapter and all the articles to display under each category as parts of the chapter.  I found that you can modify the Section Blog Layout with a layout override to achieve this effect - and I think it works quite well.
 

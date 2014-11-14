@@ -6,6 +6,9 @@ date:        2009-01-18 15:03:20
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Layout overrides are a powerful feature in Joomla 1.5 but they can be used for much more than creating semantic, accessible markup, or for moving content fields around the page.  Since we have access to the rest of the Joomla Framework API in our layouts, we have the option of pulling in either individual modules, or a whole module position.  This can be used for any number of purposes such as for advertising banners or displaying modules only in articles where you've given up on trying to get them to show on the correct page all of the time.  In the content component, you can do this on an Article layout, but you could also do it for the Frontpage layout (have modules loaded between articles), or the Section or Category layouts just to make them a bit more interesting.
 

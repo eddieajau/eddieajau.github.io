@@ -6,6 +6,9 @@ date:   2009-03-26 00:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 A good interview with CMS Critic Mike Johnston.  I work with Louis through our shared company [JXtended][0].
 

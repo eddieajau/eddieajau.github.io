@@ -6,6 +6,9 @@ date:   2007-07-06 00:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 I was doing a client site recently and was struggling with having to explain to the client "well, imagine this page is here" and the modules will be this way or that way. So I started putting just links in to index.php but after a while I thought that was a bit lame. Well, the lights went on and the violins played and I can up with the idea that all I need is a menu item that has a textarea for a parameter to display a message and an under-construction notice. Viola! RokTodo was born and is possible the smallest component in the world. It also gives you the ability to position modules on the correct pages (which is something the old link trick could not provide for).

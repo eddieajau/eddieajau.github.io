@@ -6,6 +6,9 @@ date:        2010-07-29 14:27:10
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Unbeknownst to many, Joomla actually has includes a feature to add and edit weblinks from the frontend.  However, it is seldom used because the core layouts do not include "add" or "edit" links in the layouts.  Fortunately, using Joomla's layout override system, those links are not hard to add.  This tutorial shows you how to add and edit link to the weblinks listed in a category view and also add a link to submit a weblink.
 

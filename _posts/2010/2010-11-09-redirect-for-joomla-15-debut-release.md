@@ -6,6 +6,9 @@ date:        2010-11-09 08:32:35
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 The Art of Joomla has released a new component called **Redirect**.  This is a back-port of the same component that if found in Joomla 1.6 as developed by JXtended.  For more information see [http://www.theartofjoomla.com/extensions/redirect.html][1] and join our group on [people.joomla.org][2] for all the latest extension news.
 

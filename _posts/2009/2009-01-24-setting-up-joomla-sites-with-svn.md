@@ -6,6 +6,9 @@ date:        2009-01-24 21:35:13
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 When you start out as a Web site designer or developer, managing sites on your local workstation is not too hard, but as the workload increases, and other consultants and contractors become involved, things get more complicated.  How can everyone deploy the same staging site?  How can I get my work back which someone else just overwrote?  What do you do when the client comes back to me 18 months after the project has finished and asks for a copy of the site because they accidentally deleted a few files and you've misplaced them yourself?  One way to address these questions is to store your projects in a source code repository.  There are several different types of repository available but this tutorial will focus on using Subversion (SVN) and how to store the minimum amount of information to conserve repository space as much as possible (because, after all, space is money).
 

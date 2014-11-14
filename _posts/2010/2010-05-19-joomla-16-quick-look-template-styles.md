@@ -6,6 +6,9 @@ date:        2010-05-19 07:27:12
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla 1.6 includes a new feature called template styles.  This gives you the ability to use a single template in many different ways by saving different sets of options as a style.  Watch the Joomla 1.6 video on template styles to find out more.
 

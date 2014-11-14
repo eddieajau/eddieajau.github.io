@@ -6,6 +6,9 @@ date:        2009-01-08 14:50:35
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 As a part of the [**Joomla Day in Melbourne**][0], Australia, Andrew Eddie will be running a **workshop for Joomla developers** (seats are limited and filling fast!).  Joomla 1.5 has been built with the developer in mind and affords an incredible degree of freedom for customisation.  The participant will receive an overview of the new Joomla Framework that ships with Joomla 1.5, how it is laid out and what is relevant to the developer on a day to day basis.  Each extension type will be look at from a high level, particularly the Model-View-Controller (MVC) pattern is used in Component development. The use of layout overrides will be looked at in depth as a way of addressing sites with otherwise challenging expectations.
 

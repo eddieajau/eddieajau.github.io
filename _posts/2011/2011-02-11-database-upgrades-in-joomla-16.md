@@ -6,6 +6,9 @@ date:        2011-02-11 09:56:43
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 The Joomla database structure has remained relatively constant since Joomla 1.0 was first launched in 2005, and even beyond that to Mambo 4.5.2\.  After six years, it was time to refactor, fix many issues holding Joomla back, and set the stage for the next five or six years of development.  The [Converting Old Extensions][0] guide has been updated to include changes in the Joomla 1.6 database schema, and this article provides further information on how that might affect common database SQL queries.
 

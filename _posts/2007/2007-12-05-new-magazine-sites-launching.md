@@ -6,6 +6,9 @@ date:   2007-12-05 21:40:11
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 We have two new Magazine sites launching: [BeON Living][0] and [The Art of Joomla][1].
 

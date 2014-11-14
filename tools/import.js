@@ -52,7 +52,7 @@ var params = {
 		state: 1
 	},
 	order: 'created'
-}
+};
 
 mu.root = __dirname + '/templates';
 

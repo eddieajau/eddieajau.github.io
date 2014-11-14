@@ -6,7 +6,11 @@ date:        2013-01-19 16:52:53
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+
 Well, it's the time of the year for making plans and I thought I'd try to outline what I have in mind for the Art of Joomla this year. Both 2011 and 2012 were difficult with many life issues getting in the way. Hopefully this year will prove somewhat more productive. Anyway, here are the plans so far for this year.
 
 ## Upgrade to Joomla 3

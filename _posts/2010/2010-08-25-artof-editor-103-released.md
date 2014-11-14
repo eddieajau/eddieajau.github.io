@@ -6,6 +6,9 @@ date:        2010-08-25 09:57:24
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 ArtofEditor Version 1.0.3, a WYSIWYG editor plugin for Joomla based on the very popular CKEditor, has now been released.  This version includes updates to the latest version of CKEditor 3.4\.
 

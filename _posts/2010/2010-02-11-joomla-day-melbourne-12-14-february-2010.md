@@ -6,6 +6,9 @@ date:        2010-02-11 16:35:43
 category:    events
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Andrew Eddie will be speaking at the [Joomla Day in Melbourne][0] (Australia) on Friday 12 and Saturday 13 February.  Friday's topic is about introducing Joomla to non-profit organisations and why Joomla is a viable option to investigate for content management.  On Saturday Andrew will be presenting the latest on Joomla 1.6\.  On Sunday morning Andrew will be conducting a half-day training seminar for Joomla developers.  This is the best Joomla development training you will receive almost anywhere in the world.
 

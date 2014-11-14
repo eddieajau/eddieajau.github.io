@@ -6,6 +6,9 @@ date:   2009-03-31 08:41:45
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Interesting and balanced article on the state of Joomla by Dee-Ann Leblanc.
 

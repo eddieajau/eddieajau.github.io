@@ -6,6 +6,9 @@ date:        2010-08-26 10:30:35
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Version 1.0.1 of jhttp\_scan, a command-line security tool for scanning Joomla sites, has now been released.  Thanks go to Brian Teeman and Alex Kempkens for their fixes and contributions to this version.
 

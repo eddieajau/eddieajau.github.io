@@ -6,6 +6,9 @@ date:        2013-02-04 21:29:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 Some of you may be sending your typical &quot;Contact Us&quot; form on your Joomla site to a Gmail or a Google Apps email address. If you are, and you are using Joomla 2.5 or Joomla 3, you might have noticed a problem - when you reply to the email the address that comes up is your own email, not the email of the sender.

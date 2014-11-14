@@ -6,6 +6,9 @@ date:   2007-04-01 00:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 [Toowoomba City Council](http://www.toowoomba.qld.gov.au) will be launching it's Water Tracker site this week built on [Joomla](http://www.joomla.org).
 

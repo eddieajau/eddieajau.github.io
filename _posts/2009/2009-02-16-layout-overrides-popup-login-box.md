@@ -6,6 +6,9 @@ date:        2009-02-16 20:08:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Login boxes can take up valuable space on your web site, or just detract from the overall feel of the site.  A popular technique for addressing this problem is to show a modal popup login box.  The idea is that you replace the page hungry username and password fields with a "login" link that, when clicked, opens a modal popup login box.  This can all be achieved out-of-the-box with Mootools and Joomla layout overrides.
 

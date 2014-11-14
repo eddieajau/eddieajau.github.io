@@ -6,6 +6,9 @@ date:        2009-03-17 20:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 This layout override tutorial gives you a basis for overriding the output of the Joomla banners module. This simple example shows you how to add a title tag to the click link but also gives you a base for allowing addition customisation.
 

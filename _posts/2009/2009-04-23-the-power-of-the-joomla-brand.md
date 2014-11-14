@@ -6,6 +6,9 @@ date:   2009-04-23 10:49:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 I have to be honest and say I was nervous when I pushed the button to announce the fork away from the Mambo project August of 2005\.  I really had no idea whether we'd make it through even the first year.  Well, we did and the fourth anniversary of that fateful day is only four months away.  Joomla quickly eclipsed the Mambo project on every metric and eventually even the most hardened of fence-sitters had to concede that the fork had indeed stood it's ground and achieved success in its own right and the Joomla-versus-Mambo days are long past.  So how has Joomla as a brand performed over this time?
 

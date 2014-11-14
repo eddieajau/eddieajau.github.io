@@ -6,6 +6,9 @@ date:        2009-05-15 09:07:37
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 A common request from Joomla web masters is the ability to remove the generator meta tag from the source output of the site.  This is usually for security reasons to make it less obvious that the site is running Joomla.  The generator value is really easy to modify and remove with one line of PHP code.
 

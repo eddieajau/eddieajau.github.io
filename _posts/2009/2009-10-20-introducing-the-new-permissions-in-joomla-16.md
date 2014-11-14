@@ -6,6 +6,9 @@ date:        2009-10-20 17:35:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla 1.6 already demonstrates the ability to add your own user groups and access levels.  Recently the groundwork for the new permissions system was completed and is ready to showcase.
 

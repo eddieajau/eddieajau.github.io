@@ -6,6 +6,9 @@ date:   2007-07-07 00:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 After a very long and sometimes heated debate on the Joomla! Forums, Joomla! [recently clarified](http://www.joomla.org/content/view/3510/1/) it's position on how the GPL, the license under which Joomla! is released, affects third-party extensions. To cut a long story short, extensions are considered derived works in terms of how extensions inherit the parent license of the system.

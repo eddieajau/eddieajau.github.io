@@ -6,8 +6,15 @@ date:        2013-01-28 11:21:54
 categories:  [snippets, joomla]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-This is an Eclipse snippet category with code snippets to assist with developing backend lists in Joomla 2.5 components. It includes the following snippets:
+
+This is an Eclipse snippet category with code snippets to assist with developing backend lists in Joomla 2.5 components. 
+
+
+It includes the following snippets:
 
 * Controller Set Default View
 * Backend List View

@@ -6,6 +6,9 @@ date:        2010-06-01 07:00:00
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Andrew Eddie interviews Andrea Tarr about a new Administrator template in Joomla 1.6\.  This template has been designed to meet accessibility requirements allowing Joomla to be not only viewed, but used by and ever wider audience.  Watch the Joomla 1.6 video on the Hathor accessible Administrator template to find out more.
 

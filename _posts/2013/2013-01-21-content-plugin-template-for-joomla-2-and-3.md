@@ -6,8 +6,13 @@ date:        2013-01-21 14:44:31
 categories:  [snippets, joomla]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
+
 This is an example template that can be used for a content plugin PHP file, containing all the standard Joomla event handlers related to the content group. The file would be saved to the following location, where "pluginName" would be replaced with the name of the content plugin.
+
 
 ```
 |- ...

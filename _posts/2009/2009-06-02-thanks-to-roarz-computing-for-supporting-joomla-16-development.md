@@ -6,6 +6,9 @@ date:   2009-06-02 09:15:01
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 New Life in IT wishes to express its thanks to [**Brett Hooker**][0], owner of [**Roarz Computing**][1], for sponsoring us financially to contribute more whole development days to complete Joomla 1.6\.  "It's pretty important that you be able to focus on 1.6!" Brett says as he was talking to Andrew Eddie, New Life director and long time contributor to the Joomla Project, about the idea.  Brett is also a sponsor of the [Joomla User Group Brisbane][2] and has now gone the extra step of giving back directly to the Joomla Community through development.  Thank you Brett!
 

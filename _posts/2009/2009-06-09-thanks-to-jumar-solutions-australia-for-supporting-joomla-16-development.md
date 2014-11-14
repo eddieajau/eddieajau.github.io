@@ -6,6 +6,9 @@ date:        2009-06-09 09:26:49
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 New Life in IT wishes to express its thanks to Sam Higgins of [Jumar Solutions Australia][0] for sponsoring us for a day of Joomla 1.6 development.  Thank you Jumar Solutions.
 

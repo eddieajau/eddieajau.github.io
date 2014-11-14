@@ -6,6 +6,9 @@ date:        2009-03-10 20:00:00
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 If you are anything like me and maintain a few web sites, sometimes you forget to update the copyright year that you typically put in a footer module or embed in the template itself.  A tiny line of PHP code can fix this so you never have to worry about it again.
 

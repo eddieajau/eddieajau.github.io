@@ -6,6 +6,9 @@ date:        2011-01-20 08:31:28
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 **ArtofUser** Version 1.1, an advanced backend user manager for Joomla 1.5, is available for immediate and free download.  This version includes new features for adding user notes and blocking enhancements, invaluable for any Joomla site managing complex user dynamics like forums, social networks and intranets.
 

@@ -1,0 +1,163 @@
+##
+# @package		Joomla
+# @copyright	Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.
+# @license		GNU General Public License version 2 or later; see LICENSE.txt
+##
+
+##
+# READ THIS COMPLETELY IF YOU CHOOSE TO USE THIS FILE!
+#
+# The line just below this section: 'Options +FollowSymLinks' may cause problems
+# with some server configurations.  It is required for use of mod_rewrite, but may already
+# be set by your server administrator in a way that dissallows changing it in
+# your .htaccess file.  If using it causes your server to error out, comment it out (add # to
+# beginning of line), reload your site in your browser and test your sef url's.  If they work,
+# it has been set by your server administrator and you do not need it set here.
+##
+
+## Can be commented out if causes errors, see notes above.
+Options +FollowSymLinks
+
+## Mod_rewrite in use.
+
+RewriteEngine On
+
+Redirect 301 /62-administration/155-using-article-content-versions-in-joomla-3-2.html http://eddify.me/posts/using-article-content-versions-in-joomla-3.html
+Redirect 301 /62-administration/154-the-joomla-contact-form-gmail-and-reply-to-problems.html http://eddify.me/posts/the-joomla-contact-form-gmail-and-reply-to-problems.html
+Redirect 301 /61-customisation/152-splitting-a-joomla-menu-between-two-modules.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
+Redirect 301 /61-customisation/143-making-modal-popup-links-in-joomla.html http://eddify.me/posts/making-modal-popup-links-in-joomla.html
+Redirect 301 /9-developer/151-eclipse-snippets-for-joomla-developers.html http://eddify.me/posts/eclipse-snippets-for-joomla-developers.html
+Redirect 301 /150-eclipse-snippet-category-joomla-modules-3.html http://eddify.me/posts/snippets-for-eclipse-for-packaging-joomla-extensions.html
+Redirect 301 /snippets/149-eclipse-snippet-category-joomla-modules-2.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-plugins.html
+Redirect 301 /snippets/148-eclipse-snippet-category-joomla-modules.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-modules.html
+Redirect 301 /snippets/144-eclipse-snippet-category-joomla-components.html http://eddify.me/posts/snippets-for-eclipse-for-making-joomla-components.html
+Redirect 301 /snippets/147-eclipse-snippet-category-joomla-2-5-backend-support.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-25-backend-components.html
+Redirect 301 /snippets/145-eclipse-snippet-category-joomla-2-5-backend-lists.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-25-backend-lists.html
+Redirect 301 /snippets/146-eclipse-snippet-category-joomla-2-5-backend-edit-pages.html http://eddify.me/posts/snippets-for-eclipse-for-joomla-25-backend-edit-pages.html
+Redirect 301 /snippets/142-content-plugin-template-for-joomla-2-and-3.html http://eddify.me/posts/content-plugin-template-for-joomla-2-and-3.html
+Redirect 301 /41-extensions/141-artof-comments-disqus-for-joomla-with-a-twist.html http://eddify.me/posts/artof-comments-disqus-for-joomla-with-a-twist.html
+Redirect 301 /41-extensions/140-artof-editor-1-0-6-for-joomla-released.html http://eddify.me/posts/artof-editor-1-0-6-for-joomla-released.html
+Redirect 301 /5-commentary/139-goals-for-the-art-of-joomla-in-2013.html http://eddify.me/posts/goals-for-the-art-of-joomla-in-2013.html
+Redirect 301 /snippets.html http://eddify.me/categories/snippets.html
+Redirect 301 /9-developer/136-making-the-most-out-of-code-assist-in-eclipsepdt-and-zend-studio-for-php.html http://eddify.me/posts/making-the-most-out-of-code-assist-in-eclipsepdt-and-zend-studio-for-php.html
+Redirect 301 /9-developer/135-database-upgrades-in-joomla-16.html http://eddify.me/posts/database-upgrades-in-joomla-16.html
+Redirect 301 /5-commentary/134-when-should-developers-upgrade-to-joomla-16.html http://eddify.me/posts/when-should-developers-upgrade-to-joomla-16.html
+Redirect 301 /5-commentary/133-when-should-site-owners-upgrade-to-joomla-16.html http://eddify.me/posts/when-should-site-owners-upgrade-to-joomla-16.html
+Redirect 301 /41-extensions/132-more-on-upgrading-plugins-to-joomla-16.html http://eddify.me/posts/more-on-upgrading-plugins-to-joomla-16.html
+Redirect 301 /8-events/131-launching-learntheartofjoomlacom-a-new-resource-for-joomla-16-developers.html http://eddify.me/posts/launching-learntheartofjoomlacom-a-new-resource-for-joomla-16-developers.html
+Redirect 301 /41-extensions/129-artof-user-11-released.html http://eddify.me/posts/artofuser-110-released.html
+Redirect 301 /41-extensions/126-artof-editor-104-released.html http://eddify.me/posts/artofeditor-104-released.html
+Redirect 301 /41-extensions/118-artof-google-mini-debut-release.html http://eddify.me/posts/artof-google-mini-debut-release.html
+Redirect 301 /9-developer/112-upgrading-a-plugin-to-joomla-16.html http://eddify.me/posts/upgrading-a-plugin-to-joomla-16.html
+Redirect 301 /41-extensions/111-redirect-for-joomla-15-debut-release.html http://eddify.me/posts/redirect-for-joomla-15-debut-release.html
+Redirect 301 /41-extensions/108-jhttpscan-version-101-released.html http://eddify.me/posts/jhttpscan-version-101-released.html
+Redirect 301 /41-extensions/107-artof-editor-103-released.html http://eddify.me/posts/artof-editor-103-released.html
+Redirect 301 /6-layouts/103-layout-override-tutorial-to-add-edit-links-to-joomla-weblinks.html http://eddify.me/posts/layout-override-tutorial-to-add-edit-links-to-joomla-weblinks.html
+Redirect 301 /38-talks/102-the-joomla-16-video-for-developers.html http://eddify.me/posts/the-joomla-16-video-for-developers.html
+Redirect 301 /38-talks/101-the-joomla-16-video-access-controls.html http://eddify.me/posts/the-joomla-16-video-access-controls.html
+Redirect 301 /39-reviews/100-rode-usb-podcaster-mic-review.html http://eddify.me/posts/rode-usb-podcaster-mic-review.html
+Redirect 301 /38-talks/99-the-joomla-16-video-whats-new.html http://eddify.me/posts/the-joomla-16-video-whats-new.html
+Redirect 301 /37-spotlight/98-joomla-16-hathor-accessible-administrator-template.html http://eddify.me/posts/joomla-16-hathor-accessible-administrator-template.html
+Redirect 301 /36-quick-look/97-joomla-16-quick-look-trash.html http://eddify.me/posts/joomla-16-quick-look-trash.html
+Redirect 301 /36-quick-look/96-joomla-16-quick-look-categories.html http://eddify.me/posts/joomla-16-quick-look-categories.html
+Redirect 301 /36-quick-look/95-joomla-16-quick-look-content-access-levels.html http://eddify.me/posts/joomla-16-quick-look-content-access-levels.html
+Redirect 301 /36-quick-look/94-joomla-16-quick-look-user-groups.html http://eddify.me/posts/joomla-16-quick-look-user-groups.html
+Redirect 301 /36-quick-look/93-joomla-16-quick-look-toolbars.html http://eddify.me/posts/joomla-16-quick-look-toolbars.html
+Redirect 301 /36-quick-look/92-joomla-16-quick-look-administrator-menu.html http://eddify.me/posts/joomla-16-quick-look-administrator-menu.html
+Redirect 301 /36-quick-look/91-joomla-16-quick-look-modules.html http://eddify.me/posts/joomla-16-quick-look-modules.html
+Redirect 301 /36-quick-look/90-joomla-16-quick-look-template-styles.html http://eddify.me/posts/joomla-16-quick-look-template-styles.html
+Redirect 301 /5-commentary/84-introducing-the-new-permissions-in-joomla-16.html http://eddify.me/posts/introducing-the-new-permissions-in-joomla-16.html
+Redirect 301 /5-commentary/83-how-to-speed-up-your-joomla-web-site-with-caching.html http://eddify.me/posts/joomla-caching-explained.html
+Redirect 301 /joomla-caching-explained.html http://eddify.me/posts/joomla-caching-explained.html
+Redirect 301 /5-commentary/81-joomlas-hidden-feature-hiding-intro-text.html http://eddify.me/posts/joomlas-hidden-feature-hiding-intro-text.html
+Redirect 301 /5-commentary/77-lifting-the-lid-on-joomla-16.html http://eddify.me/posts/lifting-the-lid-on-joomla-16.html
+Redirect 301 /19-designer/64-removing-the-joomla-generator-tag.html http://eddify.me/posts/removing-the-joomla-generator-tag.html
+#Redirect 301 /19-designer/61-supporting-the-joomla-print-view-correctly.html 
+Redirect 301 /7-legacy/45-joomla-10-end-of-life-its-time-to-upgrade-your-extensions.html http://eddify.me/posts/joomla-10-end-of-life-its-time-to-upgrade-your-extensions.html
+Redirect 301 /6-layouts/42-layout-override-adding-a-title-tag-to-the-banners-module.html http://eddify.me/posts/layout-override-adding-a-title-tag-to-the-banners-module.html
+Redirect 301 /19-designer/35-template-tip-displaying-the-current-year-in-copyright-notices.html http://eddify.me/posts/template-tip-displaying-the-current-year-in-copyright-notices.html
+Redirect 301 /6-layouts/38-layout-override-making-a-joomla-section-look-like-a-book-contents.html http://eddify.me/posts/layout-override-making-a-joomla-section-look-like-a-book-contents.html
+Redirect 301 /converting-old-extensions.html http://eddify.me/posts/converting-old-extensions-to-joomla-15.html
+Redirect 301 /19-designer/34-template-tip-hiding-joomla-modules-when-a-user-logs-in.html http://eddify.me/posts/template-tip-hiding-joomla-modules-when-a-user-logs-in.html
+Redirect 301 /19-designer/37-understanding-the-structure-of-joomla.html http://eddify.me/posts/understanding-the-structure-of-joomla.html
+Redirect 301 /joomla-structure-pdf.html http://eddify.me/posts/understanding-the-structure-of-joomla.html
+Redirect 301 /6-layouts/16-layout-overrides-popup-login-box.html http://eddify.me/posts/layout-overrides-popup-login-box.html
+Redirect 301 /9-developer/13-setting-up-joomla-sites-with-svn.html http://eddify.me/posts/setting-up-joomla-sites-with-svn.html
+Redirect 301 /6-layouts/12-loading-joomla-modules-from-layout-overrides.html http://eddify.me/posts/loading-joomla-modules-from-layout-overrides.html
+Redirect 301 /8-events/11-joomla-developer-training-melbourne-australia.html http://eddify.me/posts/joomla-developer-training-melbourne-australia.html
+Redirect 301 /6-layouts/10-layout-override-tutorial-daily-blogs.html http://eddify.me/posts/layout-override-tutorial-daily-blogs.html
+Redirect 301 /7-legacy/9-removing-a-legacy-part-3.html http://eddify.me/posts/removing-a-legacy-part-3.html
+Redirect 301 /7-legacy/8-removing-a-legacy-part-2.html http://eddify.me/posts/removing-a-legacy-part-2.html
+Redirect 301 /7-legacy/7-removing-a-legacy-part-1.html http://eddify.me/posts/removing-a-legacy-part-1.html
+Redirect 301 /5-commentary/6-a-new-direction-for-the-art-of-joomla.html http://eddify.me/posts/a-new-direction.html
+
+http://www.theartofjoomla.com/extensions/advanced-administrator-menu.html
+http://www.theartofjoomla.com/extensions/advanced-administrator-menu/instructions.html
+
+Redirect 301 /extensions/artof-comments.html http://eddify.me/software/artof-comments.html
+Redirect 301 /extensions/artof-comments/instructions.html http://eddify.me/software/artof-comments.html
+
+http://www.theartofjoomla.com/extensions/artof-content.html http://eddify.me/software/retired.html
+http://www.theartofjoomla.com/extensions/artof-content/installation-64696.html http://eddify.me/software/retired.html
+http://www.theartofjoomla.com/extensions/artof-content/quick-start.html http://eddify.me/software/retired.html
+http://www.theartofjoomla.com/extensions/artof-content/category-permissions.html http://eddify.me/software/retired.html
+
+http://www.theartofjoomla.com/extensions/jhttp-scan.html
+http://www.theartofjoomla.com/extensions/filler.html
+http://www.theartofjoomla.com/extensions/filler/documentation.html
+http://www.theartofjoomla.com/extensions/engineer.html
+
+#Redirect 301 /home/38.feed http://eddify.me/feed.xml
+
+## Begin - Rewrite rules to block out some common exploits.
+# If you experience problems on your site block out the operations listed below
+# This attempts to block the most common type of exploit `attempts` to Joomla!
+#
+# Block out any script trying to base64_encode data within the URL.
+RewriteCond %{QUERY_STRING} base64_encode[^(]*\([^)]*\) [OR]
+# Block out any script that includes a <script> tag in URL.
+RewriteCond %{QUERY_STRING} (<|%3C)([^s]*s)+cript.*(>|%3E) [NC,OR]
+# Block out any script trying to set a PHP GLOBALS variable via URL.
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+# Block out any script trying to modify a _REQUEST variable via URL.
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+# Return 403 Forbidden header and show the content of the root homepage
+RewriteRule .* index.php [F]
+#
+## End - Rewrite rules to block out some common exploits.
+
+## Begin - Custom redirects
+#
+# If you need to redirect some pages, or set a canonical non-www to
+# www redirect (or vice versa), place that code here. Ensure those
+# redirects use the correct RewriteRule syntax and the [R=301,L] flags.
+#
+## End - Custom redirects
+
+##
+# Uncomment following line if your webserver's URL
+# is not directly related to physical file paths.
+# Update Your Joomla! Directory (just / for root).
+##
+
+# RewriteBase /
+
+## Begin - Joomla! core SEF Section.
+#
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+#
+# If the requested path and file is not /index.php and the request
+# has not already been internally rewritten to the index.php script
+RewriteCond %{REQUEST_URI} !^/index\.php
+# and the request is for something within the component folder,
+# or for the site root, or for an extensionless URL, or the
+# requested URL ends with one of the listed extensions
+RewriteCond %{REQUEST_URI} /component/|(/[^.]*|\.(php|html?|feed|pdf|vcf|raw))$ [NC]
+# and the requested path and file doesn't directly match a physical file
+RewriteCond %{REQUEST_FILENAME} !-f
+# and the requested path and file doesn't directly match a physical folder
+RewriteCond %{REQUEST_FILENAME} !-d
+# internally rewrite the request to the index.php script
+RewriteRule .* index.php [L]
+#
+## End - Joomla! core SEF Section.

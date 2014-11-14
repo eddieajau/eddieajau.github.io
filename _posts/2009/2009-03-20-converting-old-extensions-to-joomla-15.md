@@ -6,6 +6,9 @@ date:        2009-03-20 11:01:32
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 <p>
 	Jump to converting <a href="#j15_16">1.5 to 1.6</a>, <a href="#j10_15">1.0 to 1.5</a></p>

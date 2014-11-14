@@ -6,6 +6,9 @@ date:        2011-11-30 10:46:00
 category:    PHP
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-1.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 One of the powerful features of an IDE like Eclipse is the ability for it to "read" your code and give you some assistance about your API as you type. This could include things like class property or methods names, constants, functions, argument lists, and so on. Eclipse/PDT and ZendStudio do this by parsing a PHP class directly, but they also look at your docblocks and some other special comments where the raw PHP is not enough. This article is a bag of tricks that help you get the most out of code assistance using Eclipse/PDT or Zend Studio in those awkward corners of your code that you might have through previously inaccessible.
 

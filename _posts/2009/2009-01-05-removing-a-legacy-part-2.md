@@ -6,6 +6,9 @@ date:        2009-01-05 21:40:47
 category:    joomla
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 Welcome to Part 2 of my series on converting an existing component to work natively in Joomla version 1.5 without using legacy mode. Last time we looked at Legacy Mode, fixing the constant that prevents direct access to files and solved some database problems. We also had a quick look at what to do down the track with translations. So let's continue and find out what our next error is.

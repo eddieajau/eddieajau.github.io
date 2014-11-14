@@ -6,6 +6,9 @@ date:        2010-05-26 11:26:41
 categories:  [joomla, videos]
 image:
   thumb:     vendor/joomla.png
+  feature:    abstract-8.jpg
+  credit:     dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 Joomla 1.6 now includes the ability to customise the access levels by which you can view content.  Watch the Joomla 1.6 video on content access levels to find out more.
 
