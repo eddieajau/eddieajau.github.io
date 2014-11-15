@@ -2,7 +2,7 @@
 layout:      page
 title:       Content Manager - access control for Joomla 1.5
 description: Content Manager allows you to control the access to who can edit articles from the Joomla frontend.
-date:        2009-05-25 15:10:11
+date:        2009-06-04 10:00:00
 image:
   feature: abstract-7.jpg
   credit: dargadgetz

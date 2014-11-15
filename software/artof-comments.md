@@ -2,7 +2,7 @@
 layout:      page
 title:       Artof Comments - Disqus Support for Joomla 2.5/3.0
 description: ArtofComments is a Joomla 2.5/3.0 plugin that provides Disqus comment support for Joomla articles. What sets ArtofComments apart is the tight integration with Joomla forms. Comments are enabled within the edit form for an article or category - no need to remember dozens of category or article id's.
-date:        2013-01-21 12:35:00
+date:        2013-01-19 10:00:00
 image:
   feature: abstract-7.jpg
   credit: dargadgetz
@@ -10,7 +10,8 @@ image:
 comments: false
 reading_time: false
 ---
-**DOWNLOAD VERSION 1.1 NOW &bull; [ZIP Format][0]** 
+**DOWNLOAD VERSION 1.1 NOW**
+Joomla 2.5/3.0 --- [ZIP Format][0] 
 Last updated {{ page.date | date: "%B %d, %Y" }} ![Compatible with Joomla 2.5](/images/software/joomla/compat_25.png) ![Compatible with Joomla 3.0](/images/software/joomla/compat_30.png)
 
 **ArtofComments** is a Joomla 2.5/3.0 plugin that provides Disqus comment support for Joomla articles.

@@ -2,7 +2,7 @@
 layout:      page
 title:       Filler - a Joomla 1.5 extension for temporary pages
 description: Filler is a very simple Joomla! 1.5 component that allows you to add temporary menu items while building a site.
-date:        2009-07-21 10:46:15
+date:        2010-08-19 10:00:00
 image:
   feature: abstract-7.jpg
   credit: dargadgetz

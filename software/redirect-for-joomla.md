@@ -2,7 +2,7 @@
 layout:      post
 title:       Redirect - Page Redirection for Joomla
 description: Redirect is a component for Joomla that detects and logs 404 error pages and allows you to redirect hits on those pages to another page.
-date:        2010-11-05 20:50:25
+date:        2010-11-08 10:00:00
 image:
   feature: abstract-7.jpg
   credit: dargadgetz
@@ -10,7 +10,8 @@ image:
 comments: false
 reading_time: false
 ---
-**DOWNLOAD VERSION 1.0.2 NOW • [GZIP Format][0] or [ZIP Format][1]**  
+**DOWNLOAD VERSION 1.0.2 NOW**
+Joomla 1.5 --- [GZIP Format][0] or [ZIP Format][1] 
 Last updated {{ page.date | date: "%B %d, %Y" }} ![Compatible with Joomla 1.5](/images/software/joomla/compat_15_native.png)
 
 [Click here to be notified about updates][2] (login required)  

@@ -2,7 +2,7 @@
 layout:      post
 title:       Artof Editor - A CKEditor Plugin for Joomla 1.5, 2.5 and 3.0
 description: Artof Editor is a plugin extension for Joomla that provides the WYSIWYG CKEditor in text edit area.
-date:        2010-08-13 20:52:04
+date:        2013-01-19 10:00:00
 category:    joomla
 image:
   feature: abstract-7.jpg
