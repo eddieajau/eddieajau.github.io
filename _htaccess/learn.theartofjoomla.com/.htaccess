@@ -38,6 +38,24 @@ Redirect 301 /news/96-protostar-module-positions-in-joomla-3.html http://eddify.
 Redirect 301 /news/100-embedding-modules-in-your-joomla-articles.html http://eddify.me/posts/using-the-joomla-load-module-plugin.html
 
 # Post redirects
+Redirect 301 /building-templates.html http://eddify.me/categories/joomla-templates.html
+Redirect 301 /building-templates.html?limitstart=0 http://eddify.me/categories/joomla-templates.html
+Redirect 301 /building-templates.html?limitstart=10 http://eddify.me/categories/joomla-templates.html
+Redirect 301 /building-templates/starting-a-template.html http://eddify.me/posts/joomla-templates-101-starting-a-template.html
+Redirect 301 /building-templates/the-master-template-file.html http://eddify.me/posts/joomla-templates-102-the-master-template-file.html
+Redirect 301 /building-templates/the-system-template.html http://eddify.me/posts/joomla-templates-103-the-system-template.html
+Redirect 301 /building-templates/the-popup-template-file.html http://eddify.me/posts/joomla-templates-104-the-popup-template-file.html
+Redirect 301 /building-templates/the-template-xml-file.html http://eddify.me/posts/joomla-templates-105-the-template-xml-file.html
+Redirect 301 /building-templates/the-template-language-file.html http://eddify.me/posts/joomla-templates-106-the-template-language-file.html
+Redirect 301 /building-templates/using-template-parameters.html http://eddify.me/posts/joomla-templates-107-using-template-parameters.html
+Redirect 301 /building-templates/mvc-for-template-designers.html http://eddify.me/posts/joomla-templates-108-mvc-for-template-designers.html
+Redirect 301 /building-templates/component-layout-overrides.html http://eddify.me/posts/joomla-templates-109-component-layout-overrides.html
+Redirect 301 /building-templates/module-layout-overrides.html http://eddify.me/posts/joomla-templates-110-module-layout-overrides.html
+Redirect 301 /building-templates/module-chrome.html http://eddify.me/posts/joomla-templates-111-module-chrome.html
+Redirect 301 /building-templates/pagination-link-overrides.html http://eddify.me/posts/joomla-templates-112-pagination-link-overrides.html
+Redirect 301 /building-templates/customising-the-error-page.html http://eddify.me/posts/joomla-templates-113-customising-the-error-page.html
+Redirect 301 /building-templates/customising-the-offline-page.html http://eddify.me/posts/joomla-templates-114-customising-the-offline-page.html
+
 Redirect 301 /building-sites/a-guide-to-joomla-3-protostar-template.html http://eddify.me/posts/a-guide-to-joomla-3-protostar-template.html
 Redirect 301 /building-sites/using-the-joomla-load-module-plugin.html http://eddify.me/posts/using-the-joomla-load-module-plugin.html
 
