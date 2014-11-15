@@ -1,6 +1,6 @@
 ---
 layout:      post
-title:       Filtering request input
+title:       Filtering Joomla request input
 description: The importance of filtering and sanitising input in a web based application cannot be overstated.  The Joomla Framework provides a class called JRequest to fulfill this very important role.
 date:        2009-02-17 11:29:22
 category:    joomla-development
