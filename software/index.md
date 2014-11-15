@@ -18,6 +18,7 @@ I make available a number of extensions, some of which have been produced as com
 * [Comments](/software/artof-comments.html)
 * [Content Manager](/software/content-manager-for-joomla.html)
 * [Engineer](/software/engineer-for-joomla.html)
+* [Extended User Manager](/software/extended-user-manager-for-joomla.html)
 * [Filler](/software/filler-for-joomla.html)
 * [jttp-scan](/software/jhttp-scan-for-joomla.html)
 * [Redirect](/software/redirect-for-joomla.html)

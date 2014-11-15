@@ -110,6 +110,9 @@ Redirect 301 /extensions/artof-content/installation-64696.html http://eddify.me/
 Redirect 301 /extensions/artof-content/quick-start.html http://eddify.me/software/retired.html
 Redirect 301 /extensions/artof-content/category-permissions.html http://eddify.me/software/retired.html
 
+Redirect 301 /extensions/artof-user.html http://eddify.me/software/extended-user-manager-for-joomla.html
+Redirect 301 /extensions/artof-user/support-42442.html http://eddify.me/software/extended-user-manager-for-joomla.html
+
 Redirect 301 /extensions/engineer.html http://eddify.me/software/engineer-for-joomla.html
 
 Redirect 301 /extensions/filler.html http://eddify.me/software/filler-for-joomla.html
