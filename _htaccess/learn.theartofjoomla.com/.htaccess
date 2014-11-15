@@ -37,7 +37,52 @@ Redirect 301 /building-sites/creating-a-split-menu-in-joomla.html http://eddify.
 Redirect 301 /news/96-protostar-module-positions-in-joomla-3.html http://eddify.me/posts/protostar-module-positions-in-joomla-3.html
 Redirect 301 /news/100-embedding-modules-in-your-joomla-articles.html http://eddify.me/posts/using-the-joomla-load-module-plugin.html
 
+Redirect 301 /news/107-joomla-framework-tutorials.html http://eddify.me/categories/joomla-framework.html
+Redirect 301 /news/92-component-videos-for-access-control-and-database-design-now-available.html http://eddify.me/categories/videos.html
+Redirect 301 /news/89-thanks-to-joomla-tutorials-joomla-beat-podcast-and-open-source-certified.html ***
+Redirect 301 /news/85-four-joomla-component-videos-now-available.html http://eddify.me/categories/videos.html
+Redirect 301 /news/84-learn-the-art-of-joomla-is-free.html http://eddify.me
+Redirect 301 /news/81-new-developer-video-on-using-phing-to-package-extensions.html http://eddify.me/categories/videos.html
+Redirect 301 /news/79-christmas-specials-for-joomla-developer-training.html http://eddify.me
+Redirect 301 /news/77-new-developer-videos-for-packaging-a-joomla-17-component.html http://eddify.me/categories/videos.html
+Redirect 301 /news/74-new-developer-video-and-first-joomla-platform-tutorial.html http://eddify.me/categories/videos.html
+Redirect 301 /news/70-new-developer-videos-for-backend-edit-forms-in-joomla-16.html http://eddify.me/categories/videos.html
+Redirect 301 /news/64-production-schedule-for-joomla-development-videos-updated.html http://eddify.me/categories/videos.html
+Redirect 301 /news/62-new-developer-videos-for-backend-list-views-in-joomla-16.html http://eddify.me/categories/videos.html
+Redirect 301 /news/new-database-design-videos-for-joomla-16.html http://eddify.me/categories/videos.html
+Redirect 301 /news/welcome-to-the-launch-of-learn-the-art-of-joomla.html http://eddify.me
+
 # Post redirects
+
+Redirect 301 /18-platform/71-logging-with-jlog.html http://eddify.me/posts/logging-in-joomla-with-jlog.html
+Redirect 301 /schedule/2-uncategorised/72-ipad-test.html http://eddify.me
+
+Redirect 301 /developing-extensions.html http://eddify.me/categories/joomla-development.html
+Redirect 301 /developing-extensions/unit-introduction.html http://eddify.me/posts/joomla-development-101-introduction.html
+Redirect 301 /developing-extensions/unit-introduction.html http://eddify.me/posts/joomla-development-102-development-tools.html
+Redirect 301 /developing-extensions/coding-styles-docblocks-and-code-comments.html http://eddify.me/posts/joomla-development-103-coding-styles-docblocks-and-code-comments.html
+Redirect 301 /developing-extensions/setting-up-your-joomla-site-for-debugging.html http://eddify.me/posts/joomla-development-104-setting-up-your-joomla-site-for-debugging.html
+Redirect 301 /developing-extensions/installing-snippets-in-eclipse.html http://eddify.me/posts/joomla-development-105-installing-snippets-in-eclipse.html
+
+Redirect 301 /building-components.html http://eddify.me/categories/joomla-development.html
+Redirect 301 /building-components/hello-world.html http://eddify.me/posts/joomla-development-201-hello-world.html
+Redirect 301 /building-components/introducing-mvc.html http://eddify.me/posts/joomla-development-202-introducing-mvc.html
+Redirect 301 /building-components/adding-mvc-to-hello-world.html http://eddify.me/posts/joomla-development-203-adding-mvc-to-hello-world.html
+Redirect 301 /building-components/adding-a-toolbar.html http://eddify.me/posts/joomla-development-204-adding-a-toolbar.html
+Redirect 301 /building-components/adding-component-access-controls-part-1.html http://eddify.me/posts/joomla-development-205-adding-component-access-controls-part-1.html
+Redirect 301 /building-components/adding-component-access-controls-part-2.html http://eddify.me/posts/joomla-development-206-adding-component-access-controls-part-2.html
+Redirect 301 /building-components/planning-the-database-schema.html http://eddify.me/posts/joomla-development-207-planning-the-database-schema.html
+Redirect 301 /building-components/creating-the-database-table.html http://eddify.me/posts/joomla-development-208-creating-the-database-table.html
+Redirect 301 /building-components/adding-the-table-class.html http://eddify.me/posts/joomla-development-209-adding-the-table-class.html
+Redirect 301 /building-components/adding-a-list-view-to-hello-world.html http://eddify.me/posts/joomla-development-210-adding-a-list-view-to-hello-world.html
+Redirect 301 /building-components/adding-the-model-to-the-list-view.html http://eddify.me/posts/joomla-development-211-adding-the-model-to-the-list-view.html
+Redirect 301 /building-components/adding-the-layout-to-the-list-view.html http://eddify.me/posts/joomla-development-212-adding-the-layout-to-the-list-view.html
+Redirect 301 /building-components/adding-filters-to-the-list-view.html http://eddify.me/posts/joomla-development-213-adding-filters-to-the-list-view.html
+Redirect 301 /building-components/adding-filters-to-the-list-model.html http://eddify.me/posts/joomla-development-214-adding-filters-to-the-list-model.html
+Redirect 301 /building-components/adding-a-list-sub-controller-for-the-list-view.html http://eddify.me/posts/joomla-development-215-adding-a-list-sub-controller-for-the-list-view.html
+Redirect 301 /building-components/securing-the-ordering-columns-in-the-list-view.html http://eddify.me/posts/joomla-development-216-securing-the-ordering-columns-in-the-list-view.html
+Redirect 301 /building-components/backend-edit-form-introduction-and-adding-an-item-sub-controller.html http://eddify.me/posts/joomla-development-217-backend-edit-form-introduction-and-adding-an-item-sub-controller.html
+
 Redirect 301 /version-15-development/tutorials.html http://eddify.me/categories/joomla-development.html
 
 Redirect 301 /building-sites.html http://eddify.me/categories/joomla.html
