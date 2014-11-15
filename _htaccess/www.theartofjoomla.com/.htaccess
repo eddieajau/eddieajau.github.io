@@ -105,10 +105,10 @@ Redirect 301 /extensions/content-manager.html http://eddify.me/software/content-
 Redirect 301 /extensions/content-manager/basic-instructions.html http://eddify.me/software/content-manager-for-joomla.html
 Redirect 301 /extensions/content-manager/trouble-shooting.html http://eddify.me/software/content-manager-for-joomla.html
 
-#http://www.theartofjoomla.com/extensions/artof-content.html http://eddify.me/software/retired.html
-#http://www.theartofjoomla.com/extensions/artof-content/installation-64696.html http://eddify.me/software/retired.html
-#http://www.theartofjoomla.com/extensions/artof-content/quick-start.html http://eddify.me/software/retired.html
-#http://www.theartofjoomla.com/extensions/artof-content/category-permissions.html http://eddify.me/software/retired.html
+Redirect 301 /extensions/artof-content.html http://eddify.me/software/retired.html
+Redirect 301 /extensions/artof-content/installation-64696.html http://eddify.me/software/retired.html
+Redirect 301 /extensions/artof-content/quick-start.html http://eddify.me/software/retired.html
+Redirect 301 /extensions/artof-content/category-permissions.html http://eddify.me/software/retired.html
 
 Redirect 301 /extensions/engineer.html http://eddify.me/software/engineer-for-joomla.html
 

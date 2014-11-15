@@ -11,4 +11,7 @@ image:
 comments: false
 reading_time: false
 ---
+
 Sorry, but the software you were looking for has been retired.
+
+{% include gcse.html %}
