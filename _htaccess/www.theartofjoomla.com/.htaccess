@@ -121,12 +121,12 @@ Redirect 301 /extensions/engineer.html http://eddify.me/software/engineer-for-jo
 Redirect 301 /extensions/filler.html http://eddify.me/software/filler-for-joomla.html
 Redirect 301 /extensions/filler/documentation.html http://eddify.me/software/filler-for-joomla.html
 
-Redirect 301 extensions/artof-google-mini.html http://eddify.me/software/google-mini-for-joomla.html
-Redirect 301 extensions/artof-google-mini/installation-43669.html http://eddify.me/software/google-mini-for-joomla.html
-Redirect 301 extensions/artof-google-mini/administration.html http://eddify.me/software/google-mini-for-joomla.html
-Redirect 301 extensions/artof-google-mini/menu-pages.html http://eddify.me/software/google-mini-for-joomla.html
-Redirect 301 extensions/artof-google-mini/modules.html http://eddify.me/software/google-mini-for-joomla.html
-Redirect 301 extensions/artof-google-mini/support.html http://eddify.me/software/google-mini-for-joomla.html
+Redirect 301 /extensions/artof-google-mini.html http://eddify.me/software/google-mini-for-joomla.html
+Redirect 301 /extensions/artof-google-mini/installation-43669.html http://eddify.me/software/google-mini-for-joomla.html
+Redirect 301 /extensions/artof-google-mini/administration.html http://eddify.me/software/google-mini-for-joomla.html
+Redirect 301 /extensions/artof-google-mini/menu-pages.html http://eddify.me/software/google-mini-for-joomla.html
+Redirect 301 /extensions/artof-google-mini/modules.html http://eddify.me/software/google-mini-for-joomla.html
+Redirect 301 /extensions/artof-google-mini/support.html http://eddify.me/software/google-mini-for-joomla.html
 
 Redirect 301 /extensions/jhttp-scan.html http://eddify.me/software/jhttp-scan-for-joomla.html
 

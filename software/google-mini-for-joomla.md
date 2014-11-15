@@ -1,5 +1,5 @@
 ---
-layout:      post
+layout:      page
 title:       Artof Google Mini - Seamless search integration with Joomla 1.5
 description: Artof Google Mini is a component to allow seamless integration with a Google Mini server and your Joomla 1.5 web site.
 date:        2010-11-23 10:00:00

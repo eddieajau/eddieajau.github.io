@@ -1,5 +1,5 @@
 ---
-layout:      post
+layout:      page
 title:       Artof User - Extended User Manager
 description: Artof User is a component for Joomla 1.5 that extra features to manage your web site users.
 date:        2011-01-19 10:00:00

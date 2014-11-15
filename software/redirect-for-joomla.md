@@ -1,5 +1,5 @@
 ---
-layout:      post
+layout:      page
 title:       Redirect - Page Redirection for Joomla
 description: Redirect is a component for Joomla that detects and logs 404 error pages and allows you to redirect hits on those pages to another page.
 date:        2010-11-08 10:00:00
