@@ -1,6 +1,6 @@
 ---
 layout:      post
-title:       Why query variables with ampersands are truncated
+title:       Why Joomla query variables with ampersands are truncated
 description: This tutorial outlines why URL variables are truncated if they contain a URL encoded ampersand character.
 date:        2011-01-28 10:00:00
 category:    joomla-development

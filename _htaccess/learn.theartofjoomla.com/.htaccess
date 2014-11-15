@@ -38,6 +38,8 @@ Redirect 301 /news/96-protostar-module-positions-in-joomla-3.html http://eddify.
 Redirect 301 /news/100-embedding-modules-in-your-joomla-articles.html http://eddify.me/posts/using-the-joomla-load-module-plugin.html
 
 # Post redirects
+Redirect 301 /version-15-development/tutorials.html http://eddify.me/categories/joomla-development.html
+
 Redirect 301 /building-templates.html http://eddify.me/categories/joomla-templates.html
 Redirect 301 /building-templates.html?limitstart=0 http://eddify.me/categories/joomla-templates.html
 Redirect 301 /building-templates.html?limitstart=10 http://eddify.me/categories/joomla-templates.html
