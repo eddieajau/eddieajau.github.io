@@ -3,7 +3,7 @@ layout:      post
 title:       Snippets for Eclipse for Joomla Plugins
 description: This is an Eclipse snippet category for Joomla plugins.
 date:        2013-01-28 11:28:00
-categories:  [snippets, joomla]
+categories:  [snippets, joomla-development]
 image:
   thumb:     vendor/joomla.png
   feature:    abstract-8.jpg

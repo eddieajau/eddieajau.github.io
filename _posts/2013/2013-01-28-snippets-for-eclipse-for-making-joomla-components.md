@@ -3,7 +3,7 @@ layout:      post
 title:       Snippets for Eclipse for making Joomla components
 description: This is an Eclipse snippet category for general purpose Joomla 2.5/3 Component code snippets.
 date:        2013-01-28 09:48:23
-categories:  [snippets, joomla]
+categories:  [snippets, joomla-development]
 image:
   thumb:     vendor/joomla.png
   feature:    abstract-8.jpg

@@ -3,7 +3,7 @@ layout:      post
 title:       Snippets for Eclipse for Joomla 2.5 backend components
 description: This is an Eclipse snippet category with backend component support code for Joomla 2.5 components (all except CSS should be applicable for Joomla 3.0).
 date:        2013-01-28 09:48:23
-categories:  [snippets, joomla]
+categories:  [snippets, joomla-development]
 image:
   thumb:     vendor/joomla.png
   feature:    abstract-8.jpg

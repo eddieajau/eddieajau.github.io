@@ -3,7 +3,7 @@ layout:      post
 title:       Snippets for Eclipse for Joomla 2.5 backend lists
 description: This is an Eclipse snippet category with code snippets to assist with developing backend lists in Joomla 2.5 components.
 date:        2013-01-28 11:21:54
-categories:  [snippets, joomla]
+categories:  [snippets, joomla-development]
 image:
   thumb:     vendor/joomla.png
   feature:    abstract-8.jpg
