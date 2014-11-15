@@ -14,6 +14,7 @@ I make available a number of extensions, some of which have been produced as com
 ## For Joomla
 
 * [Advanced Administrator Menu](/software/advanced-administrator-menu-for-joomla.html)
+* [CK Editor for Joomla](/software/ckeditor-for-joomla.html)
 * [Comments](/software/artof-comments.html)
 * [Content Manager](/software/content-manager-for-joomla.html)
 * [Engineer](/software/engineer-for-joomla.html)

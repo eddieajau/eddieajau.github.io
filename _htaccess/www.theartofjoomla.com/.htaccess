@@ -25,6 +25,7 @@ RewriteEngine On
 Redirect 301 /62-administration/155-using-article-content-versions-in-joomla-3-2.html http://eddify.me/posts/using-article-content-versions-in-joomla-3.html
 Redirect 301 /62-administration/154-the-joomla-contact-form-gmail-and-reply-to-problems.html http://eddify.me/posts/the-joomla-contact-form-gmail-and-reply-to-problems.html
 Redirect 301 /61-customisation/152-splitting-a-joomla-menu-between-two-modules.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
+Redirect 301 /magazine/article/27-more-menu-tricks-the-split-menu-technique.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
 Redirect 301 /61-customisation/143-making-modal-popup-links-in-joomla.html http://eddify.me/posts/making-modal-popup-links-in-joomla.html
 Redirect 301 /9-developer/151-eclipse-snippets-for-joomla-developers.html http://eddify.me/posts/eclipse-snippets-for-joomla-developers.html
 Redirect 301 /150-eclipse-snippet-category-joomla-modules-3.html http://eddify.me/posts/snippets-for-eclipse-for-packaging-joomla-extensions.html
@@ -116,6 +117,9 @@ Redirect 301 /extensions/jhttp-scan.html http://eddify.me/software/jhttp-scan-fo
 Redirect 301 /extensions/redirect.html http://eddify.me/software/redirect-for-joomla.html
 Redirect 301 /extensions/redirect/instructions.html http://eddify.me/software/redirect-for-joomla.html
 Redirect 301 /extensions/redirect/support-46925.html http://eddify.me/software/redirect-for-joomla.html
+
+Redirect 301 /topics.html http://eddify.me/categories/
+Redirect 301 /topics/legacy-mode.html http://eddify.me/categories/
 
 #Redirect 301 /home/38.feed http://eddify.me/feed.xml
 
