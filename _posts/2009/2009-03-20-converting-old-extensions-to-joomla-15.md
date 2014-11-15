@@ -529,7 +529,7 @@ image:
 <p>
 	Joomla 1.0 end-of-life occurred on July 22, 2009.&nbsp; Joomla 1.5 provides a legacy layer to allow many Joomla 1.0 extensions to run in Joomla 1.5. &nbsp; The following tables outline many of the API changes in a simple &quot;old way&quot; versus &quot;new way&quot; format.</p>
 <p>
-	The best way to convert your extensions to run natively with Joomla 1.5 is to turn legacy mode off and observe the errors that occur.&nbsp; Use the tables to look up the missing functions or classes and make the appropriate replacements.&nbsp; You may also find all of our <a href="topics/legacy-mode.html">Legacy Mode</a> topics useful to peruse.</p>
+	The best way to convert your extensions to run natively with Joomla 1.5 is to turn legacy mode off and observe the errors that occur.&nbsp; Use the tables to look up the missing functions or classes and make the appropriate replacements.</p>
 <p>
 	Please note that these tables are only to be used to assist in converting your extensions to run natively on Joomla 1.5.&nbsp; In some cases there are &quot;better&quot; ways to do things, or there are new features in Joomla 1.5 that you can take advantage of that replace some of the Joomla 1.0 ways of doing things.&nbsp; To find out more about the &quot;Joomla Way&quot; in Joomla 1.5 I encourgage you to subscribe to <a href="reference.html">the Art of Joomla Developer Reference</a>.</p>
 <p>

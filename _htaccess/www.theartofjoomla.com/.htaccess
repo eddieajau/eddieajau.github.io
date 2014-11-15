@@ -98,6 +98,9 @@ Redirect 301 /extensions/advanced-administrator-menu/instructions.html http://ed
 Redirect 301 /extensions/artof-comments.html http://eddify.me/software/artof-comments.html
 Redirect 301 /extensions/artof-comments/instructions.html http://eddify.me/software/artof-comments.html
 
+Redirect 301 /extensions/artof-editor.html http://eddify.me/software/ckeditor-for-joomla.html
+Redirect 301 /extensions/artof-editor/documentation-13632.html http://eddify.me/software/ckeditor-for-joomla.html
+
 Redirect 301 /extensions/content-manager.html http://eddify.me/software/content-manager-for-joomla.html
 Redirect 301 /extensions/content-manager/basic-instructions.html http://eddify.me/software/content-manager-for-joomla.html
 Redirect 301 /extensions/content-manager/trouble-shooting.html http://eddify.me/software/content-manager-for-joomla.html

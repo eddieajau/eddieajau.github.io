@@ -28,7 +28,7 @@ I've spent many years developing in PHP but am now exploring other technologies 
 
 ### Editors/IDEs
 
-* [PHPStorm](www.jetbrains.com/phpstorm/) (for the heavy lifting)
+* [PHPStorm](http://www.jetbrains.com/phpstorm/) (for the heavy lifting)
 * [TextMate](http://macromates.com) (for the adhoc stuff)
 * [Atom](https://atom.io) (because it's new)
 

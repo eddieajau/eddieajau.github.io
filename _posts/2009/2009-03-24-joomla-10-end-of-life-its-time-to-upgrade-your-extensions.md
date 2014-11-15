@@ -27,13 +27,7 @@ These articles cover the methodology for "how" to change your extensions, not ju
 
 Upgrading your Joomla 1.0 extensions now is the best way to prepare for being future compatible with Joomla 1.6 when it comes out.  If you are running natively on the Joomla 1.5 API now, then you will have little or maybe no modifications to make to enable your extensions to run with Joomla 1.6 (there are likely to be some small changes regarding the new Access Control layer).  The Legacy Mode is being dropped in Joomla 1.6 so it's not the time to be complacent about upskilling.
 
-What's next after you've upgraded your extension?  If you want to learn more about developing extensions for or customising Joomla then why not subscribe to [the Art of Joomla Developer Reference][4].  It's **only AUD49.90** per year.  New material is being added each month.
-
-[Terms & Conditions][5] 
-
 [0]: http://eddify.me/posts/converting-old-extensions-to-joomla-15.html
 [1]: http://eddify.me/posts/removing-a-legacy-part-1.html "Article: Removing a Legacy: Part 1"
 [2]: http://eddify.me/posts/removing-a-legacy-part-2.html "Article: Removing a Legacy: Part 2"
 [3]: http://eddify.me/posts/removing-a-legacy-part-3.html "Article: Removing a Legacy: Part 3"
-[4]: http://www.theartofjoomla.com/reference.html
-[5]: http://www.theartofjoomla.com/terms-and-conditions.html

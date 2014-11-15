@@ -23,5 +23,5 @@ New features/fixes in this version of the extension include the following:
 * Added .clr specification to editor stylesheet to correctly portray clearing divs.
 * Fixed bug in link to documentation page.
 
-[0]: index.php?Itemid=41
+[0]: /software/ckeditor-for-joomla.html
 [1]: http://ckeditor.com/blog/CKEditor_3.4_released
