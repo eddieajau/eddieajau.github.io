@@ -34,7 +34,8 @@ Redirect 301 /terms-and-conditions.html http://eddify.me/terms.html
 Redirect 301 /building-sites/creating-a-split-menu-in-joomla.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
 
 # News Redirects
-Redirect 301 /news/96-protostar-module-positions-in-joomla-3.html http://eddify.me/posts/protostar-module-positions-in-joomla-3.md.html
+Redirect 301 /news/96-protostar-module-positions-in-joomla-3.html http://eddify.me/posts/protostar-module-positions-in-joomla-3.html
+Redirect 301 /news/100-embedding-modules-in-your-joomla-articles.html http://eddify.me/posts/using-the-joomla-load-module-plugin.html
 
 # Post redirects
 Redirect 301 /building-sites/a-guide-to-joomla-3-protostar-template.html http://eddify.me/posts/a-guide-to-joomla-3-protostar-template.html
