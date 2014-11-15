@@ -91,21 +91,31 @@ Redirect 301 /7-legacy/8-removing-a-legacy-part-2.html http://eddify.me/posts/re
 Redirect 301 /7-legacy/7-removing-a-legacy-part-1.html http://eddify.me/posts/removing-a-legacy-part-1.html
 Redirect 301 /5-commentary/6-a-new-direction-for-the-art-of-joomla.html http://eddify.me/posts/a-new-direction.html
 
-http://www.theartofjoomla.com/extensions/advanced-administrator-menu.html
-http://www.theartofjoomla.com/extensions/advanced-administrator-menu/instructions.html
+Redirect 301 /extensions/advanced-administrator-menu.html http://eddify.me/software/advanced-administrator-menu-for-joomla.html
+Redirect 301 /extensions/advanced-administrator-menu/instructions.html http://eddify.me/software/advanced-administrator-menu-for-joomla.html
 
 Redirect 301 /extensions/artof-comments.html http://eddify.me/software/artof-comments.html
 Redirect 301 /extensions/artof-comments/instructions.html http://eddify.me/software/artof-comments.html
 
-http://www.theartofjoomla.com/extensions/artof-content.html http://eddify.me/software/retired.html
-http://www.theartofjoomla.com/extensions/artof-content/installation-64696.html http://eddify.me/software/retired.html
-http://www.theartofjoomla.com/extensions/artof-content/quick-start.html http://eddify.me/software/retired.html
-http://www.theartofjoomla.com/extensions/artof-content/category-permissions.html http://eddify.me/software/retired.html
+Redirect 301 /extensions/content-manager.html http://eddify.me/software/content-manager-for-joomla.html
+Redirect 301 /extensions/content-manager/basic-instructions.html http://eddify.me/software/content-manager-for-joomla.html
+Redirect 301 /extensions/content-manager/trouble-shooting.html http://eddify.me/software/content-manager-for-joomla.html
 
-http://www.theartofjoomla.com/extensions/jhttp-scan.html
-http://www.theartofjoomla.com/extensions/filler.html
-http://www.theartofjoomla.com/extensions/filler/documentation.html
-http://www.theartofjoomla.com/extensions/engineer.html
+#http://www.theartofjoomla.com/extensions/artof-content.html http://eddify.me/software/retired.html
+#http://www.theartofjoomla.com/extensions/artof-content/installation-64696.html http://eddify.me/software/retired.html
+#http://www.theartofjoomla.com/extensions/artof-content/quick-start.html http://eddify.me/software/retired.html
+#http://www.theartofjoomla.com/extensions/artof-content/category-permissions.html http://eddify.me/software/retired.html
+
+Redirect 301 /extensions/engineer.html http://eddify.me/software/engineer-for-joomla.html
+
+Redirect 301 /extensions/filler.html http://eddify.me/software/filler-for-joomla.html
+Redirect 301 /extensions/filler/documentation.html http://eddify.me/software/filler-for-joomla.html
+
+Redirect 301 /extensions/jhttp-scan.html http://eddify.me/software/jhttp-scan-for-joomla.html
+
+Redirect 301 /extensions/redirect.html http://eddify.me/software/redirect-for-joomla.html
+Redirect 301 /extensions/redirect/instructions.html http://eddify.me/software/redirect-for-joomla.html
+Redirect 301 /extensions/redirect/support-46925.html http://eddify.me/software/redirect-for-joomla.html
 
 #Redirect 301 /home/38.feed http://eddify.me/feed.xml
 

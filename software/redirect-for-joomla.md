@@ -21,7 +21,7 @@ Redirect allows you to detect when Joomla cannot find a page (typically called a
 
 Redirect can be a valuable tool when you are reorganising the menu for your Joomla web site, or you are changing settings (like turning SEF on after going live) or for site migrations to Joomla when you need to refer old URL's to new ones.
 
-[![Screenshot](/images/software/redirect/redirect_list_links_active.jpg)][5]
+[![Screenshot](/images/software/redirect/redirect_list_links_active.jpg)](/images/software/redirect/redirect_list_links_active.jpg "Click to enlarge")
 
 ## Features
 
@@ -67,7 +67,7 @@ The plugin will now start recording each time Joomla encounters a page that it c
 
 To access Redirect, select _Components -\> Redirect_ from the administrator menu bar.
 
-[![Screenshot](/images/software/redirect/redirect_list_links_pending.jpg)][0]
+[![Screenshot](/images/software/redirect/redirect_list_links_pending.jpg)](/images/software/redirect/redirect_list_links_pending.jpg "Click to enlarge")
 
 The list shows you the page-not-found links that Joomla has encountered and the Redirect system plugin has logged. The default state of the list shows you all Pending links and it is sorted by the most recently updated date (most recent first).  These are links that have been logged but where no action has been taken.
 
@@ -85,7 +85,7 @@ If your site in even moderately popular, you will quickly collect links that hac
 
 To edit a redirection link, click on the link in the "Source URL" column and you will see the Add Link screen.
 
-[![Screenshot](/images/software/redirect/redirect_edit_link.jpg)][1]
+[![Screenshot](/images/software/redirect/redirect_edit_link.jpg)](/images/software/redirect/redirect_edit_link.jpg "Click to enlarge")
 
 Find the page on your site that should display when a browser tries to visit this link, and paste it into the "Destination URL" textbox.  Then select either "Active" or "Archived" for the published state.  As a suggestion, choose "Active" for real pages that have moved, and choose "Archived" other types of pages.
 
@@ -95,7 +95,7 @@ When you return to the list, change the published state filter to "Active".  You
 
 When creating custom redirect links, do not make the "Source URL" the same name as any that is used by Joomla. For example, do not use `http://example.com/media` as this will not be processed by Joomla at all.
 
-[![Screenshot](/images/software/redirect/redirect_list_links_active.jpg)][2]
+[![Screenshot](/images/software/redirect/redirect_list_links_active.jpg)](/images/software/redirect/redirect_list_links_active.jpg "Click to enlarge")
 
 
 ## Frequently Asked Questions
