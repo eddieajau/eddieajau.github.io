@@ -39,7 +39,7 @@ Redirect 301 /news/100-embedding-modules-in-your-joomla-articles.html http://edd
 
 Redirect 301 /news/107-joomla-framework-tutorials.html http://eddify.me/categories/joomla-framework.html
 Redirect 301 /news/92-component-videos-for-access-control-and-database-design-now-available.html http://eddify.me/categories/videos.html
-Redirect 301 /news/89-thanks-to-joomla-tutorials-joomla-beat-podcast-and-open-source-certified.html ***
+Redirect 301 /news/89-thanks-to-joomla-tutorials-joomla-beat-podcast-and-open-source-certified.html http://eddify.me/posts/thanks-to-joomla-tutorials-joomla-beat-podcast-and-open-source-certified.html
 Redirect 301 /news/85-four-joomla-component-videos-now-available.html http://eddify.me/categories/videos.html
 Redirect 301 /news/84-learn-the-art-of-joomla-is-free.html http://eddify.me
 Redirect 301 /news/81-new-developer-video-on-using-phing-to-package-extensions.html http://eddify.me/categories/videos.html
@@ -65,6 +65,8 @@ Redirect 301 /developing-extensions/setting-up-your-joomla-site-for-debugging.ht
 Redirect 301 /developing-extensions/installing-snippets-in-eclipse.html http://eddify.me/posts/joomla-development-105-installing-snippets-in-eclipse.html
 
 Redirect 301 /building-components.html http://eddify.me/categories/joomla-development.html
+Redirect 301 /building-components.html?start=10 http://eddify.me/categories/joomla-development.html
+Redirect 301 /building-components.html?limitstart=0 http://eddify.me/categories/joomla-development.html
 Redirect 301 /building-components/hello-world.html http://eddify.me/posts/joomla-development-201-hello-world.html
 Redirect 301 /building-components/introducing-mvc.html http://eddify.me/posts/joomla-development-202-introducing-mvc.html
 Redirect 301 /building-components/adding-mvc-to-hello-world.html http://eddify.me/posts/joomla-development-203-adding-mvc-to-hello-world.html
@@ -104,6 +106,19 @@ Redirect 301 /building-templates/module-chrome.html http://eddify.me/posts/jooml
 Redirect 301 /building-templates/pagination-link-overrides.html http://eddify.me/posts/joomla-templates-112-pagination-link-overrides.html
 Redirect 301 /building-templates/customising-the-error-page.html http://eddify.me/posts/joomla-templates-113-customising-the-error-page.html
 Redirect 301 /building-templates/customising-the-offline-page.html http://eddify.me/posts/joomla-templates-114-customising-the-offline-page.html
+
+Redirect 301 /framework-solutions.html http://eddify.me/categories/joomla-framework.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-1.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-1.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-2.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-2.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-3.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-3.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-4.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-4.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-5.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-5.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-6.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-6.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-7.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-7.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-8.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-8.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-9.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-9.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-10.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-10.html
+Redirect 301 /framework-solutions/building-a-command-line-application-part-11.html http://eddify.me/posts/building-a-command-line-application-with-the-joomla-framework-part-11.html
 
 Redirect 301 /building-sites/a-guide-to-joomla-3-protostar-template.html http://eddify.me/posts/a-guide-to-joomla-3-protostar-template.html
 Redirect 301 /building-sites/using-the-joomla-load-module-plugin.html http://eddify.me/posts/using-the-joomla-load-module-plugin.html
