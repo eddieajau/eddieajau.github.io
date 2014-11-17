@@ -151,7 +151,7 @@ You might also like to read:
 * [Getting Started with Composer and Joomla!][5] by [David Hurley][6]
 
 [0]: https://github.com/eddieajau/tagaliser/tree/v1.0 "Click here to see the source code for part 1 of building a command line application with the Joomla Framework."
-[1]: http:://getcomposer.org "Click here to go to the Composer web site."
+[1]: http://getcomposer.org "Click here to go to the Composer web site."
 [2]: http://getcomposer.org/download/
 [3]: http://getcomposer.org/doc/04-schema.md "Click here to get more information about the composer.json file."
 [4]: /posts/building-a-command-line-application-with-the-joomla-framework-part-2.html "Building a command line application with the Joomla Framework - Part 2 - Why it works"
