@@ -221,4 +221,4 @@ To address this, we can find the search date by the following procedure.
     // Get the UTC date for use in database queries
     $date = $today->toMySQL();
 
-[0]: php.net/manual/en/function.strftime.php
+[0]: http://php.net/manual/en/function.strftime.php
