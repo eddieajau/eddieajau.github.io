@@ -3,7 +3,7 @@ layout:      post
 title:       Node for PHP Developers - CampJS IV
 description: A talk I gave at CampJS IV about how to more easily make the cognitive shift between PHP and Node.
 tags:        php, node, javascript
-date:        2014-11-18 10:00:00
+date:        2014-11-20 16:00:00
 category:    ["node", "javascript", "slides"]
 image:
   feature:    abstract-6.jpg
@@ -17,7 +17,9 @@ This is the slide presentation I prepared for my "Node for PHP Developers" talk 
 	<iframe src="//www.slideshare.net/slideshow/embed_code/41786614" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div>
 
-The idea was to prepare the talk I wish I could have heard when I was thrown in the deep-end of doing my first Node project. It was frustrating.
+The idea was to prepare the talk I wish I could have heard when I was thrown in the deep-end of doing my first Node project. 
+
+It was frustrating.
 
 I wasn't productive.
 
