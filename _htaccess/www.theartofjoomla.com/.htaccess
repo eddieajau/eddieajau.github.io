@@ -25,6 +25,9 @@ RewriteEngine On
 Redirect 301 /62-administration/155-using-article-content-versions-in-joomla-3-2.html http://eddify.me/posts/using-article-content-versions-in-joomla-3.html
 Redirect 301 /62-administration/154-the-joomla-contact-form-gmail-and-reply-to-problems.html http://eddify.me/posts/the-joomla-contact-form-gmail-and-reply-to-problems.html
 Redirect 301 /61-customisation/152-splitting-a-joomla-menu-between-two-modules.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
+Redirect 301 /component/zine/article/27.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
+Redirect 301 /component/zine/article/27-more-menu-tricks-the-split-menu-technique.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
+Redirect 301 /component/zine/article/27-more-menu-tricks-the-split-menu-technique.html?q=split+menu http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
 Redirect 301 /magazine/article/27-more-menu-tricks-the-split-menu-technique.html http://eddify.me/posts/splitting-a-joomla-menu-between-two-modules.html
 Redirect 301 /61-customisation/143-making-modal-popup-links-in-joomla.html http://eddify.me/posts/making-modal-popup-links-in-joomla.html
 Redirect 301 /9-developer/151-eclipse-snippets-for-joomla-developers.html http://eddify.me/posts/eclipse-snippets-for-joomla-developers.html
@@ -56,6 +59,7 @@ Redirect 301 /41-extensions/107-artof-editor-103-released.html http://eddify.me/
 Redirect 301 /6-layouts/103-layout-override-tutorial-to-add-edit-links-to-joomla-weblinks.html http://eddify.me/posts/layout-override-tutorial-to-add-edit-links-to-joomla-weblinks.html
 Redirect 301 /38-talks/102-the-joomla-16-video-for-developers.html http://eddify.me/posts/the-joomla-16-video-for-developers.html
 Redirect 301 /38-talks/101-the-joomla-16-video-access-controls.html http://eddify.me/posts/the-joomla-16-video-access-controls.html
+Redirect 301 /home/38-talks/101-the-joomla-16-video-a. http://eddify.me/posts/the-joomla-16-video-access-controls.html
 Redirect 301 /39-reviews/100-rode-usb-podcaster-mic-review.html http://eddify.me/posts/rode-usb-podcaster-mic-review.html
 Redirect 301 /38-talks/99-the-joomla-16-video-whats-new.html http://eddify.me/posts/the-joomla-16-video-whats-new.html
 Redirect 301 /37-spotlight/98-joomla-16-hathor-accessible-administrator-template.html http://eddify.me/posts/joomla-16-hathor-accessible-administrator-template.html
@@ -79,6 +83,7 @@ Redirect 301 /6-layouts/42-layout-override-adding-a-title-tag-to-the-banners-mod
 Redirect 301 /19-designer/35-template-tip-displaying-the-current-year-in-copyright-notices.html http://eddify.me/posts/template-tip-displaying-the-current-year-in-copyright-notices.html
 Redirect 301 /6-layouts/38-layout-override-making-a-joomla-section-look-like-a-book-contents.html http://eddify.me/posts/layout-override-making-a-joomla-section-look-like-a-book-contents.html
 Redirect 301 /converting-old-extensions.html http://eddify.me/posts/converting-old-extensions-to-joomla-15.html
+Redirect 301 /conver...xtensions.html http://eddify.me/posts/converting-old-extensions-to-joomla-15.html
 Redirect 301 /19-designer/34-template-tip-hiding-joomla-modules-when-a-user-logs-in.html http://eddify.me/posts/template-tip-hiding-joomla-modules-when-a-user-logs-in.html
 Redirect 301 /19-designer/37-understanding-the-structure-of-joomla.html http://eddify.me/posts/understanding-the-structure-of-joomla.html
 Redirect 301 /joomla-structure-pdf.html http://eddify.me/posts/understanding-the-structure-of-joomla.html
@@ -101,12 +106,14 @@ Redirect 301 /powered-by-joomla.html http://eddify.me
 
 Redirect 301 /extensions/advanced-administrator-menu.html http://eddify.me/software/advanced-administrator-menu-for-joomla.html
 Redirect 301 /extensions/advanced-administrator-menu/instructions.html http://eddify.me/software/advanced-administrator-menu-for-joomla.html
+Redirect 301 /extensions/advanced-administrator-menu/instructions-12179.html http://eddify.me/software/advanced-administrator-menu-for-joomla.html
 
 Redirect 301 /extensions/artof-comments.html http://eddify.me/software/artof-comments.html
 Redirect 301 /extensions/artof-comments/instructions.html http://eddify.me/software/artof-comments.html
 
 Redirect 301 /extensions/artof-editor.html http://eddify.me/software/ckeditor-for-joomla.html
 Redirect 301 /extensions/artof-editor/documentation-13632.html http://eddify.me/software/ckeditor-for-joomla.html
+Redirect 301 /extensions/artof-editor/documentation.html http://eddify.me/software/ckeditor-for-joomla.html
 
 Redirect 301 /extensions/content-manager.html http://eddify.me/software/content-manager-for-joomla.html
 Redirect 301 /extensions/content-manager/basic-instructions.html http://eddify.me/software/content-manager-for-joomla.html
@@ -117,6 +124,7 @@ Redirect 301 /extensions/artof-user/instructions.html http://eddify.me/software/
 Redirect 301 /extensions/artof-user/installation.html http://eddify.me/software/extended-user-manager-for-joomla.html
 Redirect 301 /extensions/artof-user/plugins.html http://eddify.me/software/extended-user-manager-for-joomla.html
 Redirect 301 /extensions/artof-user/support-42442.html http://eddify.me/software/extended-user-manager-for-joomla.html
+Redirect 301 /extensions/artof-user/support.html http://eddify.me/software/extended-user-manager-for-joomla.html
 
 Redirect 301 /extensions/engineer.html http://eddify.me/software/engineer-for-joomla.html
 
@@ -125,6 +133,7 @@ Redirect 301 /extensions/filler/documentation.html http://eddify.me/software/fil
 
 Redirect 301 /extensions/artof-google-mini.html http://eddify.me/software/google-mini-for-joomla.html
 Redirect 301 /extensions/artof-google-mini/installation-43669.html http://eddify.me/software/google-mini-for-joomla.html
+Redirect 301 /extensions/artof-google-mini/installation.html http://eddify.me/software/google-mini-for-joomla.html
 Redirect 301 /extensions/artof-google-mini/administration.html http://eddify.me/software/google-mini-for-joomla.html
 Redirect 301 /extensions/artof-google-mini/menu-pages.html http://eddify.me/software/google-mini-for-joomla.html
 Redirect 301 /extensions/artof-google-mini/modules.html http://eddify.me/software/google-mini-for-joomla.html
@@ -133,11 +142,22 @@ Redirect 301 /extensions/artof-google-mini/support.html http://eddify.me/softwar
 Redirect 301 /extensions/jhttp-scan.html http://eddify.me/software/jhttp-scan-for-joomla.html
 
 Redirect 301 /extensions/redirect.html http://eddify.me/software/redirect-for-joomla.html
+Redirect 301 /extensions/redirect.html. http://eddify.me/software/redirect-for-joomla.html
 Redirect 301 /extensions/redirect/instructions.html http://eddify.me/software/redirect-for-joomla.html
 Redirect 301 /extensions/redirect/support-46925.html http://eddify.me/software/redirect-for-joomla.html
+Redirect 301 /extensions/redirect/support.html http://eddify.me/software/redirect-for-joomla.html
 
 Redirect 301 /topics.html http://eddify.me/categories/
 Redirect 301 /topics/legacy-mode.html http://eddify.me/categories/
+Redirect 301 /topics/layout-overrides.html http://eddify.me/categories/joomla.html
+Redirect 301 /topics/access-control.html http://eddify.me/categories/joomla.html
+Redirect 301 /topics/database.html http://eddify.me/categories/joomla.html
+Redirect 301 /topics/translation.html http://eddify.me/categories/joomla.html
+
+Redirect 301 /topics/videos.html http://eddify.me/categories/videos.html
+
+Redirect 301 /component/zine/issue/5-issue-2.html http://eddify.me
+Redirect 301 /magazine.html http://eddify.me
 
 # Retired extensions
 Redirect 301 /extensions/artof-content.html http://eddify.me/software/retired.html
