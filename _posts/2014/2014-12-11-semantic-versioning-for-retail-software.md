@@ -1,7 +1,7 @@
 ---
 layout:      post
 title:       Semantic versioning for retail software
-description: 
+description: SemVer is could be used to inform end-users on when it is critical to upgrade by always increment the _minor_ version number to signal to the retail user that it's worth their time upgrading the software, even if technically only a bug patch.
 tags:        semver, semantic versioning, software
 date:        2014-12-11 10:00:00
 category:    ["development"]
